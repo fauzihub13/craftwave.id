@@ -28,7 +28,7 @@ class GeneralController extends Controller
     }
 
     public function portofolio() {
-        return view('pages.portofolio');
+        return view('pages.portfolio.index');
     }
 
     public function hubungiKami() {
@@ -36,6 +36,6 @@ class GeneralController extends Controller
     }
 
     public function kirimPesan() {
-       
+
     }
 }

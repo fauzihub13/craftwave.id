@@ -81,6 +81,7 @@
     <script src="{{ asset('assets/js/isotope.pkgd.min.js') }}"></script>
     <!-- Main Js File -->
     <script src="{{ asset('assets/js/main.js') }}"></script>
+    <script src="{{ asset('assets/js/custom.js') }}"></script>
 
 </body>
 

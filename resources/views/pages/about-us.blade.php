@@ -23,44 +23,9 @@
             </div>
         </div>
     </div>
-    <!--Service Area-->
-    <section class=" space-top space-extra-bottom">
-        <div class="container">
-            <div class="row justify-content-center text-center">
-                <div class="col-lg-8 col-xl-6 wow fadeInUp" data-wow-delay="0.2s">
-                    <div class="title-area">
-                        {{-- <span class="sec-subtitle">Our Latest Services</span> --}}
-                        <h2 class="sec-title h1">Layanan <span class="text-primary-color">Craftwave.id</span></h2>
-                    </div>
-                </div>
-            </div>
-            <div class="row wow fadeInUp justify-content-center" data-wow-delay="0.2s">
-                <div class="col-md-6 col-lg-4">
-                    <div class="service-style1">
-                        {{-- <div class="service-bg" data-bg-src="assets/img/bg/sr-box-bg-1.jpg"></div> --}}
-                        <div class="service-icon"><img src="assets/img/icon/sr-icon-1-1.png" alt="Features"></div>
-                        <h3 class="service-title h5"><a href="service-details.html">Pengelolaan Sosial Media</a></h3>
-                        <p class="service-text">Tingkatkan brand Anda dengan strategi social media yang menghubungkan dan menginspirasi.</p>
-                        <a href="service-details.html" class="vs-btn style3">Selengkapnya<i
-                                class="far fa-long-arrow-right"></i></a>
-                    </div>
-                </div>
-                <div class="col-md-6 col-lg-4">
-                    <div class="service-style1">
-                        {{-- <div class="service-bg" data-bg-src="assets/img/bg/sr-box-bg-1.jpg"></div> --}}
-                        <div class="service-icon"><img src="assets/img/icon/sr-icon-1-2.png" alt="Features"></div>
-                        <h3 class="service-title h5"><a href="service-details.html">Pembuatan Website</a></h3>
-                        <p class="service-text">Dapatkan website elegan yang mengesankan dan mengonversi pengunjung menjadi pelanggan setia.</p>
-                        <a href="service-details.html" class="vs-btn style3">Selengkapnya<i
-                                class="far fa-long-arrow-right"></i></a>
-                    </div>
-                </div>
 
-            </div>
-        </div>
-    </section>
     <!--Team Area-->
-    <section class=" space-extra-bottom">
+    <section class="space-top space-extra-bottom">
         <div class="container  wow fadeInUp" data-wow-delay="0.2s">
             <div class="row justify-content-center text-center">
                 <div class="col-xl-6">

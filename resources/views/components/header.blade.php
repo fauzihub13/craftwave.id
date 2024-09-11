@@ -8,18 +8,14 @@
             </div>
             <div class="vs-mobile-menu">
                 <ul>
-                    <li class="menu-item-has-children">
+                    <li class="">
                         <a href="{{ route('beranda') }}">Beranda</a>
                     </li>
                     <li>
                         <a href="{{ route('tentang-kami') }}">Tentang Kami</a>
                     </li>
-                    <li class="menu-item-has-children">
+                    <li class="">
                         <a href="{{ route('layanan.website') }}">Layanan</a>
-                        <ul class="sub-menu">
-                            <li><a href="{{ route('layanan.website') }}">Pembuatan Website</a></li>
-                            <li><a href="{{ route('layanan.sosial-media') }}">Kelola Sosial Media</a></li>
-                        </ul>
                     </li>
                     <li>
                         <a href="{{ route('portofolio') }}">Portfolio</a>
@@ -48,12 +44,8 @@
                                     <li>
                                         <a href="{{ route('tentang-kami') }}">Tentang Kami</a>
                                     </li>
-                                    <li class="menu-item-has-children">
+                                    <li class="">
                                         <a href="{{ route('layanan.index') }}">Layanan</a>
-                                        <ul class="sub-menu">
-                                            <li><a href="{{ route('layanan.website') }}">Pembuatan Website</a></li>
-                                            <li><a href="{{ route('layanan.sosial-media') }}">Kelola Sosial Media</a></li>
-                                        </ul>
                                     </li>
                                     <li class="">
                                         <a href="{{ route('portofolio') }}">Portofolio</a>

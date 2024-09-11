@@ -1,3 +1,15 @@
 .text-primary-color {
     color: var(--theme-color) !important;
 }
+
+.border-primary-custom {
+    border-bottom: 3px solid var(--theme-color);
+}
+
+a.tab-services {
+    color: black;
+}
+
+a.tab-services:hover {
+    color: var(--theme-color);
+}
