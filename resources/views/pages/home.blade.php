@@ -46,9 +46,7 @@
                     class="ls-l ls-hide-tablet ls-hide-phone ls-html-layer"
                     data-ls="offsetyin:50; durationin:1500; delayin:900; easingin:easeOutQuint; offsetyout:50; durationout:1500; easingout:easeOutQuint; position:relative;">
                     <div class="ls-btn-group">
-                        <a href="about.html" class="vs-btn ls-hero-btn">Tentang Kami<i class="far fa-arrow-right"></i></a>
-                        <a href="blog.html" class="vs-btn style2 ls-hero-btn">Selengkapnya<i
-                                class="far fa-arrow-right"></i></a>
+                        <a href="about.html" class="vs-btn style2 ls-hero-btn">KONSULTASI SEKARANG<i class="far fa-arrow-right"></i></a>
                     </div>
                 </div>
                 <p style="font-size:32px; text-align:left; font-style:normal; text-decoration:none; text-transform:none; font-weight:600; letter-spacing:0px; border-style:solid; background-position:0% 0%; background-repeat:no-repeat; font-family:Exo; color:#ffffff; border-width:2px 2px 2px 2px; border-color:#ffffff; border-radius:5px 5px 5px 5px; padding-top:18px; padding-right:44px; padding-left:44px; top:160px; left:90px; padding-bottom:18px;"
@@ -69,9 +67,7 @@
                     class="ls-l ls-hide-desktop ls-hide-phone ls-html-layer"
                     data-ls="offsetyin:50; durationin:1500; delayin:900; easingin:easeOutQuint; offsetyout:50; durationout:1500; easingout:easeOutQuint; position:relative;">
                     <div class="ls-btn-group">
-                        <a href="about.html" class="vs-btn ls-hero-btn">ABOUT US<i class="far fa-arrow-right"></i></a>
-                        <a href="blog.html" class="vs-btn style2 ls-hero-btn">READ MORE<i
-                                class="far fa-arrow-right"></i></a>
+                        <a href="about.html" class="vs-btn style2 ls-hero-btn">KONSULTASI SEKARANG<i class="far fa-arrow-right"></i></a>
                     </div>
                 </div>
                 <h1 style="top:120px; left:50%; text-align:center; font-weight:700; background-size:inherit; background-position:inherit; font-size:130px; color:#ffffff; font-family:Exo; width:10000px;"
@@ -88,9 +84,7 @@
                     class="ls-l ls-hide-desktop ls-hide-tablet ls-html-layer"
                     data-ls="offsetyin:50; durationin:1500; delayin:900; easingin:easeOutQuint; offsetyout:50; durationout:1500; easingout:easeOutQuint; position:relative;">
                     <div class="ls-btn-group">
-                        <a href="about.html" class="vs-btn ls-hero-btn">Tentang Kami<i class="far fa-arrow-right"></i></a>
-                        <a href="blog.html" class="vs-btn style2 ls-hero-btn">Selengkapnya<i
-                                class="far fa-arrow-right"></i></a>
+                        <a href="about.html" class="vs-btn style2 ls-hero-btn">KONSULTASI SEKARANG<i class="far fa-arrow-right"></i></a>
                     </div>
                 </div>
                 <a class="ls-l ls-hide-tablet ls-hide-phone" href="#next" target="_self" data-ls="static:forever;">
@@ -140,9 +134,7 @@
                     class="ls-l ls-hide-tablet ls-hide-phone ls-html-layer"
                     data-ls="offsetyin:50; durationin:1500; delayin:900; easingin:easeOutQuint; offsetyout:50; durationout:1500; easingout:easeOutQuint; position:relative;">
                     <div class="ls-btn-group">
-                        <a href="about.html" class="vs-btn ls-hero-btn">TENTANG KAMI<i class="far fa-arrow-right"></i></a>
-                        <a href="blog.html" class="vs-btn style2 ls-hero-btn">SELENGKAPNYA<i
-                                class="far fa-arrow-right"></i></a>
+                        <a href="about.html" class="vs-btn style2 ls-hero-btn">KONSULTASI SEKARANG<i class="far fa-arrow-right"></i></a>
                     </div>
                 </div>
                 <p style="font-size:32px; text-align:left; font-style:normal; text-decoration:none; text-transform:none; font-weight:600; letter-spacing:0px; border-style:solid; background-position:0% 0%; background-repeat:no-repeat; font-family:Exo; color:#ffffff; border-width:2px 2px 2px 2px; border-color:#ffffff; border-radius:5px 5px 5px 5px; padding-top:18px; padding-right:44px; padding-left:44px; top:160px; left:90px; padding-bottom:18px;"
@@ -163,9 +155,7 @@
                     class="ls-l ls-hide-desktop ls-hide-phone ls-html-layer"
                     data-ls="offsetyin:50; durationin:1500; delayin:900; easingin:easeOutQuint; offsetyout:50; durationout:1500; easingout:easeOutQuint; position:relative;">
                     <div class="ls-btn-group">
-                        <a href="about.html" class="vs-btn ls-hero-btn">TENTANG KAMI<i class="far fa-arrow-right"></i></a>
-                        <a href="blog.html" class="vs-btn style2 ls-hero-btn">SELENGKAPNYA<i
-                                class="far fa-arrow-right"></i></a>
+                        <a href="about.html" class="vs-btn style2 ls-hero-btn">KONSULTASI SEKARANG<i class="far fa-arrow-right"></i></a>
                     </div>
                 </div>
                 <h1 style="top:120px; left:50%; text-align:center; font-weight:700; background-size:inherit; background-position:inherit; font-size:130px; color:#ffffff; font-family:Exo; width:10000px;"
@@ -182,9 +172,7 @@
                     class="ls-l ls-hide-desktop ls-hide-tablet ls-html-layer"
                     data-ls="offsetyin:50; durationin:1500; delayin:900; easingin:easeOutQuint; offsetyout:50; durationout:1500; easingout:easeOutQuint; position:relative;">
                     <div class="ls-btn-group">
-                        <a href="about.html" class="vs-btn ls-hero-btn">Tentang Kami<i class="far fa-arrow-right"></i></a>
-                        <a href="blog.html" class="vs-btn style2 ls-hero-btn">Selengkapnya<i
-                                class="far fa-arrow-right"></i></a>
+                        <a href="about.html" class="vs-btn style2 ls-hero-btn">KONSULTASI SEKARANG<i class="far fa-arrow-right"></i></a>
                     </div>
                 </div>
             </div>
@@ -221,9 +209,7 @@
                     class="ls-l ls-hide-tablet ls-hide-phone ls-html-layer"
                     data-ls="offsetyin:50; durationin:1500; delayin:900; easingin:easeOutQuint; offsetyout:50; durationout:1500; easingout:easeOutQuint; position:relative;">
                     <div class="ls-btn-group">
-                        <a href="about.html" class="vs-btn ls-hero-btn">TENTANG KAMI<i class="far fa-arrow-right"></i></a>
-                        <a href="blog.html" class="vs-btn style2 ls-hero-btn">SELENGKAPNYA<i
-                                class="far fa-arrow-right"></i></a>
+                        <a href="about.html" class="vs-btn style2 ls-hero-btn">KONSULTASI SEKARANG<i class="far fa-arrow-right"></i></a>
                     </div>
                 </div>
                 <p style="font-size:32px; text-align:left; font-style:normal; text-decoration:none; text-transform:none; font-weight:600; letter-spacing:0px; border-style:solid; background-position:0% 0%; background-repeat:no-repeat; font-family:Exo; color:#ffffff; border-width:2px 2px 2px 2px; border-color:#ffffff; border-radius:5px 5px 5px 5px; padding-top:18px; padding-right:44px; padding-left:44px; top:160px; left:90px; padding-bottom:18px;"
@@ -244,9 +230,7 @@
                     class="ls-l ls-hide-desktop ls-hide-phone ls-html-layer"
                     data-ls="offsetyin:50; durationin:1500; delayin:900; easingin:easeOutQuint; offsetyout:50; durationout:1500; easingout:easeOutQuint; position:relative;">
                     <div class="ls-btn-group">
-                        <a href="about.html" class="vs-btn ls-hero-btn">TENTANG KAMI<i class="far fa-arrow-right"></i></a>
-                        <a href="blog.html" class="vs-btn style2 ls-hero-btn">SELENGKAPNYA<i
-                                class="far fa-arrow-right"></i></a>
+                        <a href="about.html" class="vs-btn style2 ls-hero-btn">KONSULTASI SEKARANG<i class="far fa-arrow-right"></i></a>
                     </div>
                 </div>
                 <h1 style="top:120px; left:50%; text-align:center; font-weight:700; background-size:inherit; background-position:inherit; font-size:130px; color:#ffffff; font-family:Exo; width:10000px;"
@@ -263,9 +247,7 @@
                     class="ls-l ls-hide-desktop ls-hide-tablet ls-html-layer"
                     data-ls="offsetyin:50; durationin:1500; delayin:900; easingin:easeOutQuint; offsetyout:50; durationout:1500; easingout:easeOutQuint; position:relative;">
                     <div class="ls-btn-group">
-                        <a href="about.html" class="vs-btn ls-hero-btn">Tentang Kami<i class="far fa-arrow-right"></i></a>
-                        <a href="blog.html" class="vs-btn style2 ls-hero-btn">Selengkapnya<i
-                                class="far fa-arrow-right"></i></a>
+                        <a href="about.html" class="vs-btn style2 ls-hero-btn">KONSULTASI SEKARANG<i class="far fa-arrow-right"></i></a>
                     </div>
                 </div>
             </div>
@@ -275,48 +257,9 @@
     <div data-bg-src="assets/img/bg/ab-bg-1-1.jpg">
         <!--Features Area-->
         <section class="space-top "></section>
-        {{-- <section class="feature-wrap1  space-top space-extra-bottom">
-            <div class="container wow fadeInUp" data-wow-delay="0.2s">
-                <div class="row vs-carousel" data-slide-show="3" data-lg-slide-show="2" data-md-slide-show="2">
-                    <div class="col-xl-4">
-                        <div class="feature-style1">
-                            <div class="feature-icon"><img src="assets/img/icon/fe-1-1.png" alt="Features"></div>
-                            <h3 class="feature-title h5"><a class="text-inherit" href="service-details.html">Development
-                                    Services</a></h3>
-                            <p class="feature-text">Completely implement via highly efficient process improvements.
-                                engage high value before progressive data.</p>
-                            <a href="service-details.html" class="vs-btn style3">Read More<i
-                                    class="far fa-long-arrow-right"></i></a>
-                        </div>
-                    </div>
-                    <div class="col-xl-4">
-                        <div class="feature-style1">
-                            <div class="feature-icon"><img src="assets/img/icon/fe-1-2.png" alt="Features"></div>
-                            <h3 class="feature-title h5"><a class="text-inherit" href="service-details.html">Marketing
-                                    Services</a></h3>
-                            <p class="feature-text">Completely implement via highly efficient process improvements.
-                                engage high value before progressive data.</p>
-                            <a href="service-details.html" class="vs-btn style3">Read More<i
-                                    class="far fa-long-arrow-right"></i></a>
-                        </div>
-                    </div>
-                    <div class="col-xl-4">
-                        <div class="feature-style1">
-                            <div class="feature-icon"><img src="assets/img/icon/fe-1-3.png" alt="Features"></div>
-                            <h3 class="feature-title h5"><a class="text-inherit" href="service-details.html">Consulting
-                                    Services</a></h3>
-                            <p class="feature-text">Completely implement via highly efficient process improvements.
-                                engage high value before progressive data.</p>
-                            <a href="service-details.html" class="vs-btn style3">Read More<i
-                                    class="far fa-long-arrow-right"></i></a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section> --}}
         <!-- About Us-->
         <section class="position-relative space-bottom">
-            <span class="about-shape1 d-none d-xl-block">TechBiz</span>
+            {{-- <span class="about-shape1 d-none d-xl-block">Craftwave.id</span> --}}
             <div class="container z-index-common">
                 <div class="row gx-60">
                     <div class="col-lg-6 col-xl-5 mb-50 mb-lg-0 wow fadeInUp" data-wow-delay="0.2s">
@@ -637,7 +580,7 @@
         </div>
     </section>
     <!--FAQ Area-->
-    <section class="faq-wrap1  ">
+    {{-- <section class="faq-wrap1  ">
         <div class="faq-shape1" data-bg-src="assets/img/bg/faq-bg-1-1.jpg"></div>
         <div class="faq-shape2" data-bg-src="assets/img/bg/faq-bg-1-2.jpg"></div>
         <div class="container">
@@ -652,8 +595,6 @@
                     </div>
                 </div>
                 <div class="col-lg-6 align-self-center">
-                    {{-- <span class="sec-subtitle text-white"><i class="fas fa-bring-forward"></i>Talk About
-                        Something</span> --}}
                     <h2 class="sec-title text-white mb-4 pb-2 h1">Bagaimana kami dapat membantu Anda?</h2>
                     <div class="accordion accordion-style1" id="faqVersion1">
                         <div class="accordion-item">
@@ -712,24 +653,9 @@
             </div>
         </div>
     </section>
-    <section class="space-top "></section>
+    <section class="space-top "></section> --}}
     <!--CTA Area-->
-    <section class="z-index-common space" data-bg-src="assets/img/bg/cta-bg-1-1.jpg">
-        <div class="container">
-            <div class="row text-center text-lg-start align-items-center justify-content-between">
-                <div class="col-lg-auto">
-                    <span class="sec-subtitle text-white">Kami siap menjawab pertanyaan Anda 24/7</span>
-                    <h2 class="h1 sec-title cta-title1">Butuh Konsultasi?</h2>
-                </div>
-                <div class="col-lg-auto">
-                    <a href="contact.html" class="vs-btn">Konsultasi Gratis<i class="far fa-arrow-right"></i></a>
-                </div>
-            </div>
-        </div>
-    </section>
-    <section class="space-top "></section>
-
-
+    @include('components.free-consult')
 
 @endsection
 

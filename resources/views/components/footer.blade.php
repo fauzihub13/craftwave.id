@@ -40,10 +40,9 @@
                 <div class="row justify-content-between">
                     <div class="col-md-6 col-lg-4 col-xl-auto">
                         <div class="widget footer-widget">
-                            <h3 class="widget_title">About Us</h3>
+                            <h3 class="widget_title">Tentang Kami</h3>
                             <div class="vs-widget-about">
-                                <p class="footer-text">Intrinsicly evisculate emerging cutting edge scenarios redefine
-                                    future-proof e-markets demand line</p>
+                                <p class="footer-text">Layanan pembuatan website profesional dan pengelolaan media sosial.</p>
                                 <div class="footer-social">
                                     <a href="#"><i class="fab fa-facebook-f"></i></a>
                                     <a href="#"><i class="fab fa-twitter"></i></a>
@@ -56,19 +55,18 @@
                     </div>
                     <div class="col-md-6 col-lg-2 col-xl-auto">
                         <div class="widget widget_nav_menu  footer-widget">
-                            <h3 class="widget_title">Links</h3>
+                            <h3 class="widget_title">Tautan</h3>
                             <div class="menu-all-pages-container">
                                 <ul class="menu">
-                                    <li><a href="#">About Us</a></li>
-                                    <li><a href="#">Our Mission</a></li>
-                                    <li><a href="#">Meet The Teams</a></li>
-                                    <li><a href="#">Our Projects</a></li>
-                                    <li><a href="#">Contact Us</a></li>
+                                    <li><a href="#">Tentang Kami</a></li>
+                                    <li><a href="#">Layanan</a></li>
+                                    <li><a href="#">Portofolio</a></li>
+                                    <li><a href="#">Hubungi Kami</a></li>
                                 </ul>
                             </div>
                         </div>
                     </div>
-                    <div class="col-md-6 col-lg-2 col-xl-auto">
+                    {{-- <div class="col-md-6 col-lg-2 col-xl-auto">
                         <div class="widget widget_nav_menu  footer-widget">
                             <h3 class="widget_title">Explore</h3>
                             <div class="menu-all-pages-container">
@@ -80,7 +78,7 @@
                                 </ul>
                             </div>
                         </div>
-                    </div>
+                    </div> --}}
                     <div class="col-md-6 col-lg-4 col-xl-auto">
                         <div class="widget footer-widget">
                             <h3 class="widget_title">Office Maps</h3>
