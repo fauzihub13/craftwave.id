@@ -10,7 +10,7 @@
 @section('main')
 
     <!--Breadcumb-->
-    <div class="breadcumb-wrapper " data-bg-src="assets/img/breadcumb/breadcumb-bg.jpg">
+    <div class="breadcumb-wrapper " data-bg-src="{{ asset('assets/img/craftwave/other/Counter.png') }}">
         <div class="container z-index-common">
             <div class="breadcumb-content">
                 <h1 class="breadcumb-title">Hubungi Kami</h1>

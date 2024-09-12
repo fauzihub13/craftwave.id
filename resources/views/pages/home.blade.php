@@ -255,7 +255,7 @@
         </div>
     </section>
 
-    <div data-bg-src="assets/img/bg/ab-bg-1-1.jpg">
+    <div data-bg-src="{{ asset('assets/img/bg/ab-bg-1-1.jpg') }}">
         <!--Features Area-->
         <section class="space-top "></section>
         <!-- About Us-->
@@ -266,7 +266,7 @@
                     <div class="col-lg-6 col-xl-5 mb-50 mb-lg-0 wow fadeInUp" data-wow-delay="0.2s">
                         <div class="img-box1">
                             <div class="img-1">
-                                <img src="assets/img/about/ab-1-1.jpg" alt="About image">
+                                <img src="{{ asset('assets/img/craftwave/other/Introduction.png') }}" alt="About image">
                             </div>
 
                         </div>
