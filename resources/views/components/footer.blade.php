@@ -1,5 +1,5 @@
 <!--Footer Area-->
-    <footer class="footer-wrapper footer-layout1" data-bg-src="assets/img/shape/bg-footer-1-1.jpg">
+    <footer class="footer-wrapper footer-layout1" data-bg-src="{{ asset('assets/img/shape/bg-footer-1-1.jpg') }}">
         <div class="footer-top">
             <div class="container">
                 <div class="row">
@@ -44,11 +44,10 @@
                             <div class="vs-widget-about">
                                 <p class="footer-text">Layanan pembuatan website profesional dan pengelolaan media sosial.</p>
                                 <div class="footer-social">
-                                    <a href="#"><i class="fab fa-facebook-f"></i></a>
-                                    <a href="#"><i class="fab fa-twitter"></i></a>
-                                    <a href="#"><i class="fab fa-instagram"></i></a>
-                                    <a href="#"><i class="fab fa-behance"></i></a>
-                                    <a href="#"><i class="fab fa-youtube"></i></a>
+                                    <a href="https://www.instagram.com/craftwave.id"><i class="fab fa-whatsapp"></i></a>
+                                    <a href="https://www.instagram.com/craftwave.id"><i class="fab fa-instagram"></i></a>
+                                    <a href="https://www.instagram.com/craftwave.id"><i class="fab fa-twitter"></i></a>
+                                    <a href="https://www.instagram.com/craftwave.id"><i class="fab fa-youtube"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -58,10 +57,10 @@
                             <h3 class="widget_title">Tautan</h3>
                             <div class="menu-all-pages-container">
                                 <ul class="menu">
-                                    <li><a href="#">Tentang Kami</a></li>
-                                    <li><a href="#">Layanan</a></li>
-                                    <li><a href="#">Portofolio</a></li>
-                                    <li><a href="#">Hubungi Kami</a></li>
+                                    <li><a href="{{ route('tentang-kami') }}">Tentang Kami</a></li>
+                                    <li><a href="{{ route('layanan.index') }}">Layanan</a></li>
+                                    <li><a href="{{ route('portofolio') }}">Portofolio</a></li>
+                                    <li><a href="{{ route('hubungi-kami') }}">Hubungi Kami</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -81,10 +80,10 @@
                     </div> --}}
                     <div class="col-md-6 col-lg-4 col-xl-auto">
                         <div class="widget footer-widget">
-                            <h3 class="widget_title">Office Maps</h3>
+                            <h3 class="widget_title">Lokasi Kami</h3>
                             <div class="footer-map">
                                 <iframe title="office location map"
-                                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d163720.11965853968!2d8.496481908353967!3d50.121347879150306!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47bd096f477096c5%3A0x422435029b0c600!2sFrankfurt%2C%20Germany!5e0!3m2!1sen!2sbd!4v1651732317319!5m2!1sen!2sbd"
+                                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7926.8944855322325!2d106.80262489127931!3d-6.591200273609904!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69c5d2e602b501%3A0x25a12f0f97fac4ee!2sSchool%20of%20Vocational%20Studies%20-%20IPB%20University!5e0!3m2!1sen!2sid!4v1726173188325!5m2!1sen!2sid"
                                     width="200" height="180" style="border:0;" allowfullscreen="" loading="lazy"
                                     referrerpolicy="no-referrer-when-downgrade"></iframe>
                             </div>
