@@ -58,11 +58,10 @@ a.tab-services:hover {
     border-radius: 5px;
     z-index: 1;
     overflow: hidden;
-    width: 100%;
+    /* width: 100%; */
     border: 3px transparent;
     transition: color 0.3s ease-in-out, background 0.3s ease-in-out, border 0.3s ease-in-out;
 }
-
 
 .btn-primary-gradient:hover {
     color: transparent;
@@ -95,3 +94,5 @@ a.tab-services:hover {
 .btn-primary-gradient:hover::before {
     opacity: 1;
 }
+
+

@@ -14,7 +14,7 @@
         <div class="vs-hero-carousel" data-height="850" data-container="1900" data-slidertype="responsive">
             <!-- Slide 1-->
             <div class="ls-slide" data-ls="duration:12000; transition2d:5; kenburnszoom:in; kenburnsscale:1.1;">
-                <img width="1920" height="850" src="assets/img/craftwave/hero/hero-1.png" class="ls-bg" alt="hero-bg" />
+                <img width="1920" height="850" src="{{ asset('assets/img/craftwave/hero/1.png') }}" class="ls-bg" alt="hero-bg" />
                 <div style="font-size:36px; color:#000; text-align:left; font-style:normal; text-decoration:none; text-transform:none; font-weight:400; letter-spacing:0px; border-style:solid; border-color:#000; background-position:0% 0%; background-repeat:no-repeat; width:300px; height:1558px; background-color:rgba(14, 84, 245, 0.5); top:-473px; left:51px;"
                     class="ls-l ls-text-layer d-hd-none"
                     data-ls="offsetxin:-800; offsetyin:-800; durationin:1700; delayin:1200; easingin:easeOutQuint; rotatein:43.46; offsetxout:1200; offsetyout:1200; durationout:8000; startatout:slidechangeonly + 3000; easingout:easeOutQuint; scaleyout:5; rotation:43.46;">
@@ -102,7 +102,7 @@
             </div>
             <!-- Slide 2-->
             <div class="ls-slide" data-ls="duration:12000; transition2d:5; kenburnszoom:out; kenburnsscale:1.1;">
-                <img width="1920" height="850" src="assets/img/hero/hero-1-2.jpg" class="ls-bg" alt="hero-bg" />
+                <img width="1920" height="850" src="{{ asset('assets/img/craftwave/hero/2.png') }}" class="ls-bg" alt="hero-bg" />
                 <div style="font-size:36px; color:#000; text-align:left; font-style:normal; text-decoration:none; text-transform:none; font-weight:400; letter-spacing:0px; border-style:solid; border-color:#000; background-position:0% 0%; background-repeat:no-repeat; width:300px; height:1558px; background-color:rgba(14, 84, 245, 0.5); top:-473px; left:51px;"
                     class="ls-l ls-text-layer d-hd-none"
                     data-ls="offsetxin:-800; offsetyin:-800; durationin:1700; delayin:1200; easingin:easeOutQuint; rotatein:43.46; offsetxout:1200; offsetyout:1200; durationout:8000; startatout:slidechangeonly + 3000; easingout:easeOutQuint; scaleyout:5; rotation:43.46;">
@@ -178,7 +178,7 @@
             </div>
             <!-- Slide 3-->
             <div class="ls-slide" data-ls="duration:12000; transition2d:5; kenburnszoom:in; kenburnsscale:1.1;">
-                <img width="1920" height="850" src="assets/img/hero/hero-1-3.jpg" class="ls-bg" alt="hero-bg" />
+                <img width="1920" height="850" src="{{ asset('assets/img/craftwave/hero/3.png') }}" class="ls-bg" alt="hero-bg" />
                 <div style="font-size:36px; color:#000; text-align:left; font-style:normal; text-decoration:none; text-transform:none; font-weight:400; letter-spacing:0px; border-style:solid; border-color:#000; background-position:0% 0%; background-repeat:no-repeat; width:300px; height:1558px; background-color:rgba(14, 84, 245, 0.5); top:-473px; left:51px;"
                     class="ls-l ls-text-layer d-hd-none"
                     data-ls="offsetxin:-800; offsetyin:-800; durationin:1700; delayin:1200; easingin:easeOutQuint; rotatein:43.46; offsetxout:1200; offsetyout:1200; durationout:8000; startatout:slidechangeonly + 3000; easingout:easeOutQuint; scaleyout:5; rotation:43.46;">
@@ -254,6 +254,7 @@
 
         </div>
     </section>
+
     <div data-bg-src="assets/img/bg/ab-bg-1-1.jpg">
         <!--Features Area-->
         <section class="space-top "></section>
@@ -282,7 +283,7 @@
                                 <p class="call-media__info">Hubungi Kami: <a href="tel:+6289684781433">+62 896 8478 1433</a></p>
                             </div>
                         </div>
-                        <a href="about.html" class="vs-btn">Tentang Kami<i class="far fa-long-arrow-right"></i></a>
+                        <a href="#" class="btn-primary-gradient">Tentang Kami<i class="far fa-long-arrow-right"></i></a>
                     </div>
                 </div>
             </div>
@@ -327,14 +328,14 @@
     <!-- Counter Area-->
     <div class="position-relative ">
         <div class="counter-shape1"></div>
-        <div class="bg-black z-index-common space" data-bg-src="assets/img/bg/counter-bg-1-1.jpg">
+        <div class="bg-black z-index-common space" data-bg-src="{{ asset('assets/img/craftwave/other/Counter.png') }}">
             <div class="container wow fadeInUp" data-wow-delay="0.2s">
                 <div class="row justify-content-between gy-4">
                     <div class="col-6 col-lg-auto">
                         <div class="counter-media">
                             <div class="counter-media__icon"><img src="assets/img/icon/count-1-1.png" alt="icon"></div>
                             <div class="media-body">
-                                <span class="counter-media__number h1 text-white">858</span>
+                                <span class="counter-media__number h1 text-white">9</span>
                                 <p class="counter-media__title text-white">Klien</p>
                             </div>
                         </div>
@@ -343,7 +344,7 @@
                         <div class="counter-media">
                             <div class="counter-media__icon"><img src="assets/img/icon/count-1-2.png" alt="icon"></div>
                             <div class="media-body">
-                                <span class="counter-media__number h1 text-white">650</span>
+                                <span class="counter-media__number h1 text-white">12</span>
                                 <p class="counter-media__title text-white">Website</p>
                             </div>
                         </div>
@@ -352,7 +353,7 @@
                         <div class="counter-media">
                             <div class="counter-media__icon"><img src="assets/img/icon/count-1-3.png" alt="icon"></div>
                             <div class="media-body">
-                                <span class="counter-media__number h1 text-white">567</span>
+                                <span class="counter-media__number h1 text-white">8</span>
                                 <p class="counter-media__title text-white">Sosial Media</p>
                             </div>
                         </div>
@@ -377,11 +378,9 @@
                 <div class="col-xl-4">
                     <div class="vs-blog blog-style1">
                         <div class="blog-img">
-                            <img src="assets/img/blog/blog-1-1.jpg" alt="Blog Image" class="w-100">
+                            <img src="{{ asset('assets/img/craftwave/portfolio/1.png') }}" alt="Blog Image" class="w-100">
                             <div class="blog-content">
-                                <h3 class="blog-title h6"><a href="blog-details.html">Contrary to popular belief ipsum
-                                        is not simply </a></h3>
-                                <p class="mb-0 text-primary-color">Contrary to popular</p>
+                                <h3 class="blog-title h6">Branding Website Consultant IT Reclas Technology</h3>
                             </div>
                         </div>
                     </div>
@@ -389,12 +388,9 @@
                 <div class="col-xl-4">
                     <div class="vs-blog blog-style1">
                         <div class="blog-img">
-                            <img src="assets/img/blog/blog-1-4.jpg" alt="Blog Image" class="w-100">
+                            <img src="{{ asset('assets/img/craftwave/portfolio/2.png') }}" alt="Blog Image" class="w-100">
                             <div class="blog-content">
-
-                                <h3 class="blog-title h6"><a href="blog-details.html">Lorem ipsum placeholder text
-                                        commonly used</a></h3>
-                                <p class="mb-0 text-primary-color">Contrary to popular</p>
+                                <h3 class="blog-title h6">Website Perdagangan Produk Pertanian B2B</h3>
                             </div>
                         </div>
                     </div>
@@ -402,18 +398,15 @@
                 <div class="col-xl-4">
                     <div class="vs-blog blog-style1">
                         <div class="blog-img">
-                            <img src="assets/img/blog/blog-1-2.jpg" alt="Blog Image" class="w-100">
+                            <img src="{{ asset('assets/img/craftwave/portfolio/3.png') }}" alt="Blog Image" class="w-100">
                             <div class="blog-content">
-
-                                <h3 class="blog-title h6"><a href="blog-details.html">From its medieval to the digital
-                                        learn everything</a></h3>
-                                <p class="mb-0 text-primary-color">Contrary to popular</p>
+                                <h3 class="blog-title h6">Website Toko Online Aromatherapy JivaJoy</h3>
                             </div>
                         </div>
                     </div>
                 </div>
-
             </div>
+            <a href="{{ route('layanan.index') }}" class="sec-subtitle text-center">Selengkapnya</a>
         </div>
     </section>
 
@@ -427,12 +420,15 @@
             </div>
             <div class="row vs-carousel text-center" data-slide-show="5" data-md-slide-show="3" data-sm-slide-show="2"
                 data-xs-slide-show="2">
-                <div class="col-auto"><img src="assets/img/brand/br-1-1.png" alt="Brand"></div>
-                <div class="col-auto"><img src="assets/img/brand/br-1-2.png" alt="Brand"></div>
-                <div class="col-auto"><img src="assets/img/brand/br-1-3.png" alt="Brand"></div>
-                <div class="col-auto"><img src="assets/img/brand/br-1-4.png" alt="Brand"></div>
-                <div class="col-auto"><img src="assets/img/brand/br-1-5.png" alt="Brand"></div>
-                <div class="col-auto"><img src="assets/img/brand/br-1-6.png" alt="Brand"></div>
+                <div class="col-auto"><img src="{{ asset('assets/img/craftwave/client/1.png') }}" alt="Brand"></div>
+                <div class="col-auto"><img src="{{ asset('assets/img/craftwave/client/2.png') }}" alt="Brand"></div>
+                <div class="col-auto"><img src="{{ asset('assets/img/craftwave/client/3.png') }}" alt="Brand"></div>
+                <div class="col-auto"><img src="{{ asset('assets/img/craftwave/client/4.png') }}" alt="Brand"></div>
+                <div class="col-auto"><img src="{{ asset('assets/img/craftwave/client/5.png') }}" alt="Brand"></div>
+                <div class="col-auto"><img src="{{ asset('assets/img/craftwave/client/6.png') }}" alt="Brand"></div>
+                <div class="col-auto"><img src="{{ asset('assets/img/craftwave/client/7.png') }}" alt="Brand"></div>
+                <div class="col-auto"><img src="{{ asset('assets/img/craftwave/client/8.png') }}" alt="Brand"></div>
+                <div class="col-auto"><img src="{{ asset('assets/img/craftwave/client/9.png') }}" alt="Brand"></div>
             </div>
         </div>
     </section>
@@ -517,13 +513,7 @@
                     <div class="team-style1">
                         <div class="team-img">
                             <a href="team-details.html"><img src="{{ asset('assets/img/craftwave/tim/Fauzi.png') }}" alt="image"></a>
-                            <div class="team-social">
-                                <a href="#"><i class="fab fa-facebook-f"></i></a>
-                                <a href="#"><i class="fab fa-twitter"></i></a>
-                                <a href="#"><i class="fab fa-instagram"></i></a>
-                                <a href="#"><i class="fab fa-behance"></i></a>
-                                <a href="#"><i class="fab fa-youtube"></i></a>
-                            </div>
+
                         </div>
                         <div class="team-content">
                             <h3 class="team-title"><a class="text-inherit" href="team-details.html">Fauzi Adi Saputra</a>
@@ -536,13 +526,7 @@
                     <div class="team-style1">
                         <div class="team-img">
                             <a href="team-details.html"><img src="{{ asset('assets/img/craftwave/tim/Marsya.png') }}" alt="image"></a>
-                            <div class="team-social">
-                                <a href="#"><i class="fab fa-facebook-f"></i></a>
-                                <a href="#"><i class="fab fa-twitter"></i></a>
-                                <a href="#"><i class="fab fa-instagram"></i></a>
-                                <a href="#"><i class="fab fa-behance"></i></a>
-                                <a href="#"><i class="fab fa-youtube"></i></a>
-                            </div>
+
                         </div>
                         <div class="team-content">
                             <h3 class="team-title"><a class="text-inherit" href="team-details.html">Marsya Halya Alfrida</a>
@@ -555,13 +539,7 @@
                     <div class="team-style1">
                         <div class="team-img">
                             <a href="team-details.html"><img src="{{ asset('assets/img/craftwave/tim/Mia.png') }}" alt="image"></a>
-                            <div class="team-social">
-                                <a href="#"><i class="fab fa-facebook-f"></i></a>
-                                <a href="#"><i class="fab fa-twitter"></i></a>
-                                <a href="#"><i class="fab fa-instagram"></i></a>
-                                <a href="#"><i class="fab fa-behance"></i></a>
-                                <a href="#"><i class="fab fa-youtube"></i></a>
-                            </div>
+
                         </div>
                         <div class="team-content">
                             <h3 class="team-title"><a class="text-inherit" href="team-details.html">Mia Putri Yeza</a>

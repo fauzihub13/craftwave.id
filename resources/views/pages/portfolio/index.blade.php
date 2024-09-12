@@ -41,7 +41,7 @@
                         <div class="blog-img">
                             <img src="{{ asset('assets/img/craftwave/portfolio/1.png') }}" alt="Blog Image" class="w-100">
                             <div class="blog-content">
-                                <h3 class="blog-title h6">Branding Website Consultant IT</h3>
+                                <h3 class="blog-title h6">Branding Website Consultant IT Reclas Technology</h3>
                             </div>
                         </div>
                     </div>

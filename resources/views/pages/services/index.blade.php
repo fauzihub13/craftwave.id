@@ -71,7 +71,7 @@
                                 <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>Integrasi sosial media</li>
                             </ul>
                         </div>
-                        <a href="#" class="btn-primary-gradient">Pesan Sekarang  <i class="far fa-arrow-right"></i></a>
+                        <a href="#" class="btn-primary-gradient w-100">Pesan Sekarang  <i class="far fa-arrow-right"></i></a>
 
 
                     </div>
@@ -94,7 +94,7 @@
                                 <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>Free Banner</li>
                             </ul>
                         </div>
-                        <a href="#" class="btn-primary-gradient">Pesan Sekarang  <i class="far fa-arrow-right"></i></a>
+                        <a href="#" class="btn-primary-gradient w-100">Pesan Sekarang  <i class="far fa-arrow-right"></i></a>
                     </div>
                 </div>
                 <div class="col-xl-4">
@@ -116,7 +116,7 @@
                                 <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>Free Banner</li>
                             </ul>
                         </div>
-                        <a href="#" class="btn-primary-gradient">Pesan Sekarang  <i class="far fa-arrow-right"></i></a>
+                        <a href="#" class="btn-primary-gradient w-100">Pesan Sekarang  <i class="far fa-arrow-right"></i></a>
                     </div>
                 </div>
             </div>
@@ -137,7 +137,7 @@
                                 <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>Laporan mingguan performa media sosial.</li>
                             </ul>
                         </div>
-                        <a href="contact.html" class="btn-primary-gradient">Pesan Sekarang  <i class="far fa-arrow-right"></i></a>
+                        <a href="#" class="btn-primary-gradient w-100">Pesan Sekarang  <i class="far fa-arrow-right"></i></a>
                     </div>
                 </div>
                 <div class="col-xl-4">
@@ -153,7 +153,7 @@
                                 <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>Laporan mingguan performa media sosial.</li>
                             </ul>
                         </div>
-                        <a href="contact.html" class="btn-primary-gradient">Pesan Sekarang  <i class="far fa-arrow-right"></i></a>
+                        <a href="#" class="btn-primary-gradient w-100">Pesan Sekarang  <i class="far fa-arrow-right"></i></a>
                     </div>
                 </div>
                 <div class="col-xl-4">
@@ -169,7 +169,7 @@
                                 <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>Laporan bulanan  performa media sosial.</li>
                             </ul>
                         </div>
-                        <a href="contact.html" class="btn-primary-gradient">Pesan Sekarang  <i class="far fa-arrow-right"></i></a>
+                        <a href="#" class="btn-primary-gradient w-100">Pesan Sekarang  <i class="far fa-arrow-right"></i></a>
                     </div>
                 </div>
                 <div class="col-xl-4">
@@ -186,7 +186,7 @@
                                 <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>Laporan bulanan  performa media sosial.</li>
                             </ul>
                         </div>
-                        <a href="contact.html" class="btn-primary-gradient">Pesan Sekarang  <i class="far fa-arrow-right"></i></a>
+                        <a href="#" class="btn-primary-gradient w-100">Pesan Sekarang  <i class="far fa-arrow-right"></i></a>
                     </div>
                 </div>
             </div>

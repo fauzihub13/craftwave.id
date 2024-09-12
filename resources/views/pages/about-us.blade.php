@@ -41,7 +41,7 @@
                             <div class="team-shape1"></div>
                             <div class="team-shape2"></div>
                             <a href="team-details.html"><img src="{{ asset('assets/img/craftwave/tim/Fauzi.png') }}" alt="image"></a>
-                            
+
                         </div>
                         <div class="team-content">
                             <h3 class="team-title h5"><a class="text-inherit" href="team-details.html">Fauzi Adi Saputra</a></h3>
@@ -105,7 +105,7 @@
                 <div class="col-xl-6">
                     <div class="testi-style2">
                         <div class="testi-body">
-                            <div class="author-img"><img src="assets/img/testimonial/auth-4-1.jpg" alt="Testimonial">
+                            <div class="author-img"><img src="{{ asset('assets/img/craftwave/testimoni/Andi.jpg') }}" alt="Testimonial">
                             </div>
                             <div class="media-body">
                                 <p class="testi-text">“Layanan yang luar biasa! Website kami responsif, dan konten media sosial berhasil meningkatkan interaksi dengan pelanggan.”</p>
@@ -118,7 +118,7 @@
                 <div class="col-xl-6">
                     <div class="testi-style2">
                         <div class="testi-body">
-                            <div class="author-img"><img src="assets/img/testimonial/auth-4-2.jpg" alt="Testimonial">
+                            <div class="author-img"><img src="{{ asset('assets/img/craftwave/testimoni/Sarah.jpg') }}" alt="Testimonial">
                             </div>
                             <div class="media-body">
                                 <p class="testi-text">“Website dan konten media sosial kami terlihat jauh lebih profesional. Penjualan naik drastis, sangat puas dengan hasilnya!”</p>
@@ -131,7 +131,7 @@
                 <div class="col-xl-6">
                     <div class="testi-style2">
                         <div class="testi-body">
-                            <div class="author-img"><img src="assets/img/testimonial/auth-4-3.jpg" alt="Testimonial">
+                            <div class="author-img"><img src="{{ asset('assets/img/craftwave/testimoni/Dita.jpg') }}" alt="Testimonial">
                             </div>
                             <div class="media-body">
                                 <p class="testi-text">“Sejak pakai jasa Craftwave.id, website dan media sosial kami menarik lebih banyak pelanggan. Sangat direkomendasikan!”</p>
@@ -139,6 +139,19 @@
                         </div>
                         <h3 class="testi-name">Dita</h3>
                         <div class="testi-degi">CEO Kafe Artisan</div>
+                    </div>
+                </div>
+                <div class="col-xl-6">
+                    <div class="testi-style2">
+                        <div class="testi-body">
+                            <div class="author-img"><img src="{{ asset('assets/img/craftwave/testimoni/Budi.jpg') }}" alt="Testimonial">
+                            </div>
+                            <div class="media-body">
+                                <p class="testi-text">“Tim Craftwave.id sangat profesional. Website kami sekarang jauh lebih menarik dan mudah diakses, konten sosial media juga sukses menarik pelanggan.”</p>
+                            </div>
+                        </div>
+                        <h3 class="testi-name">Budi</h3>
+                        <div class="testi-degi">Pengusaha Restoran</div>
                     </div>
                 </div>
             </div>
