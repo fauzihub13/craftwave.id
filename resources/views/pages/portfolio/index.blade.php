@@ -31,15 +31,15 @@
                 <div class="col-xl-6">
                     <div class="title-area">
                         {{-- <span class="sec-subtitle">Weekly Updates</span> --}}
-                        <h2 class="sec-title h1">Portofolio <span class="text-primary-color">Kami</span></h2>
+                        <h2 class="sec-title h1">Portofolio <span class="text-blue-gradient">Kami</span></h2>
                     </div>
                 </div>
             </div>
-            <div class="row vs-carousel" data-slide-show="3" data-md-slide-show="2">
+            <div class="row " data-slide-show="3" data-md-slide-show="2">
                 <div class="col-xl-4">
                     <div class="vs-blog blog-style1">
                         <div class="blog-img">
-                            <img src="{{ asset('assets/img/craftwave/portfolio/portofolio-1.png') }}" alt="Blog Image" class="w-100">
+                            <img src="{{ asset('assets/img/craftwave/portfolio/1.png') }}" alt="Blog Image" class="w-100">
                             <div class="blog-content">
                                 <h3 class="blog-title h6">Branding Website Consultant IT</h3>
                             </div>
@@ -49,9 +49,9 @@
                 <div class="col-xl-4">
                     <div class="vs-blog blog-style1">
                         <div class="blog-img">
-                            <img src="{{ asset('assets/img/craftwave/portfolio/portofolio-1.png') }}" alt="Blog Image" class="w-100">
+                            <img src="{{ asset('assets/img/craftwave/portfolio/2.png') }}" alt="Blog Image" class="w-100">
                             <div class="blog-content">
-                                <h3 class="blog-title h6">Branding Website Consultant IT</h3>
+                                <h3 class="blog-title h6">Website Perdagangan Produk Pertanian B2B</h3>
                             </div>
                         </div>
                     </div>
@@ -59,13 +59,74 @@
                 <div class="col-xl-4">
                     <div class="vs-blog blog-style1">
                         <div class="blog-img">
-                            <img src="{{ asset('assets/img/craftwave/portfolio/portofolio-1.png') }}" alt="Blog Image" class="w-100">
+                            <img src="{{ asset('assets/img/craftwave/portfolio/3.png') }}" alt="Blog Image" class="w-100">
                             <div class="blog-content">
-                                <h3 class="blog-title h6">Branding Website Consultant IT</h3>
+                                <h3 class="blog-title h6">Website Toko Online Aromatherapy JivaJoy</h3>
                             </div>
                         </div>
                     </div>
                 </div>
+                <div class="col-xl-4">
+                    <div class="vs-blog blog-style1">
+                        <div class="blog-img">
+                            <img src="{{ asset('assets/img/craftwave/portfolio/4.png') }}" alt="Blog Image" class="w-100">
+                            <div class="blog-content">
+                                <h3 class="blog-title h6">Website Lokasi Kebun Bogor GorBoen</h3>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xl-4">
+                    <div class="vs-blog blog-style1">
+                        <div class="blog-img">
+                            <img src="{{ asset('assets/img/craftwave/portfolio/5.png') }}" alt="Blog Image" class="w-100">
+                            <div class="blog-content">
+                                <h3 class="blog-title h6">Website Dasboard Pemesanan Photo Box FOTOHOKKIE</h3>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xl-4">
+                    <div class="vs-blog blog-style1">
+                        <div class="blog-img">
+                            <img src="{{ asset('assets/img/craftwave/portfolio/6.png') }}" alt="Blog Image" class="w-100">
+                            <div class="blog-content">
+                                <h3 class="blog-title h6">Website Dasboard Absensi Sambal Bakar Sutomo</h3>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xl-4">
+                    <div class="vs-blog blog-style1">
+                        <div class="blog-img">
+                            <img src="{{ asset('assets/img/craftwave/portfolio/7.png') }}" alt="Blog Image" class="w-100">
+                            <div class="blog-content">
+                                <h3 class="blog-title h6">Website Dasboard Admin One Home Farm</h3>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xl-4">
+                    <div class="vs-blog blog-style1">
+                        <div class="blog-img">
+                            <img src="{{ asset('assets/img/craftwave/portfolio/8.png') }}" alt="Blog Image" class="w-100">
+                            <div class="blog-content">
+                                <h3 class="blog-title h6">Website Wisata  dan Kuliner Bogor GorTour</h3>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xl-4">
+                    <div class="vs-blog blog-style1">
+                        <div class="blog-img">
+                            <img src="{{ asset('assets/img/craftwave/portfolio/9.png') }}" alt="Blog Image" class="w-100">
+                            <div class="blog-content">
+                                <h3 class="blog-title h6">Website Minuman Herbal Moku</h3>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
             </div>
         </div>
     </section>

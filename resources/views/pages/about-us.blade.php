@@ -30,24 +30,18 @@
             <div class="row justify-content-center text-center">
                 <div class="col-xl-6">
                     <div class="title-area">
-                        <h2 class="sec-title3 h1">Tim <span class="text-primary-color">Kami</span></h2>
+                        <h2 class="sec-title3 h1">Tim <span class="text-blue-gradient">Kami</span></h2>
                     </div>
                 </div>
             </div>
-            <div class="row vs-carousel" data-slide-show="3" data-md-slide-show="2">
+            <div class="row" data-slide-show="3" data-md-slide-show="2">
                 <div class="col-xl-4">
                     <div class="team-style2">
                         <div class="team-img">
                             <div class="team-shape1"></div>
                             <div class="team-shape2"></div>
                             <a href="team-details.html"><img src="{{ asset('assets/img/craftwave/tim/Fauzi.png') }}" alt="image"></a>
-                            <div class="team-social">
-                                <a href="#"><i class="fab fa-facebook-f"></i></a>
-                                <a href="#"><i class="fab fa-twitter"></i></a>
-                                <a href="#"><i class="fab fa-instagram"></i></a>
-                                <a href="#"><i class="fab fa-behance"></i></a>
-                                <a href="#"><i class="fab fa-youtube"></i></a>
-                            </div>
+                            
                         </div>
                         <div class="team-content">
                             <h3 class="team-title h5"><a class="text-inherit" href="team-details.html">Fauzi Adi Saputra</a></h3>
@@ -61,13 +55,7 @@
                             <div class="team-shape1"></div>
                             <div class="team-shape2"></div>
                             <a href="team-details.html"><img src="{{ asset('assets/img/craftwave/tim/Marsya.png') }}" alt="image"></a>
-                            <div class="team-social">
-                                <a href="#"><i class="fab fa-facebook-f"></i></a>
-                                <a href="#"><i class="fab fa-twitter"></i></a>
-                                <a href="#"><i class="fab fa-instagram"></i></a>
-                                <a href="#"><i class="fab fa-behance"></i></a>
-                                <a href="#"><i class="fab fa-youtube"></i></a>
-                            </div>
+
                         </div>
                         <div class="team-content">
                             <h3 class="team-title h5"><a class="text-inherit" href="team-details.html">Marsya Halya Alfrida</a>
@@ -82,13 +70,7 @@
                             <div class="team-shape1"></div>
                             <div class="team-shape2"></div>
                             <a href="team-details.html"><img src="{{ asset('assets/img/craftwave/tim/Mia.png') }}" alt="image"></a>
-                            <div class="team-social">
-                                <a href="#"><i class="fab fa-facebook-f"></i></a>
-                                <a href="#"><i class="fab fa-twitter"></i></a>
-                                <a href="#"><i class="fab fa-instagram"></i></a>
-                                <a href="#"><i class="fab fa-behance"></i></a>
-                                <a href="#"><i class="fab fa-youtube"></i></a>
-                            </div>
+
                         </div>
                         <div class="team-content">
                             <h3 class="team-title h5"><a class="text-inherit" href="team-details.html">Mia Putri Yeza</a>
@@ -97,27 +79,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-xl-4">
-                    <div class="team-style2">
-                        <div class="team-img">
-                            <div class="team-shape1"></div>
-                            <div class="team-shape2"></div>
-                            <a href="team-details.html"><img src="assets/img/team/t-2-4.jpg" alt="image"></a>
-                            <div class="team-social">
-                                <a href="#"><i class="fab fa-facebook-f"></i></a>
-                                <a href="#"><i class="fab fa-twitter"></i></a>
-                                <a href="#"><i class="fab fa-instagram"></i></a>
-                                <a href="#"><i class="fab fa-behance"></i></a>
-                                <a href="#"><i class="fab fa-youtube"></i></a>
-                            </div>
-                        </div>
-                        <div class="team-content">
-                            <h3 class="team-title h5"><a class="text-inherit" href="team-details.html">Daniel
-                                    Matthew</a></h3>
-                            <p class="team-degi">Cheif Expert</p>
-                        </div>
-                    </div>
-                </div>
+
             </div>
         </div>
     </section>
@@ -127,7 +89,7 @@
             <div class="row justify-content-between align-items-center">
                 <div class="col-lg-5 text-center text-lg-start">
                     <div class="title-area">
-                        <h2 class="sec-title3 h1">Kata <span class="text-primary-color">Mereka</span></h2>
+                        <h2 class="sec-title3 h1">Kata <span class="text-blue-gradient">Mereka</span></h2>
                     </div>
                 </div>
                 <div class="col-auto d-none d-lg-block">

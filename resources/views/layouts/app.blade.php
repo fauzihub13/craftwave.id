@@ -53,7 +53,7 @@
     @include('components.footer')
 
     <!-- Scroll To Top -->
-    <a href="#" class="scrollToTop scroll-btn"><i class="far fa-arrow-up"></i></a>
+    <a href="#" class="scrollToTop scroll-btn"><i class="far fa-arrow-up  blue-gradient-color"></i></a>
 
 
     <!-- General JS Scripts -->

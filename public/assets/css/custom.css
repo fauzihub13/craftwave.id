@@ -2,8 +2,28 @@
     color: var(--theme-color) !important;
 }
 
+.blue-gradient-color{
+    background: var(--blue-gradient);
+}
+
 .border-primary-custom {
-    border-bottom: 3px solid var(--theme-color);
+    position: relative;
+    display: inline-block;
+    overflow: hidden;
+    width: 100%;
+}
+
+.border-primary-custom::before {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 3px;
+    /* Ketebalan border */
+    background: var(--blue-gradient);
+    /* Gradien border */
+    border-radius: 5px;
 }
 
 a.tab-services {
@@ -14,6 +34,64 @@ a.tab-services:hover {
     color: var(--theme-color);
 }
 
-.primary-color-gradient{
-    background: linear-gradient(180deg, #0ABDF5, #0B4496) !important;
+.text-blue-gradient {
+    color: transparent;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-image: var(--blue-gradient);
+}
+
+.btn-primary-gradient {
+    position: relative;
+    display: inline-block;
+    border: none;
+    text-transform: uppercase;
+    text-align: center;
+    background: var(--blue-gradient);
+    color: var(--white-color);
+    font-family: var(--body-font);
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1;
+    padding: 19px 30.5px;
+    border-radius: 5px;
+    z-index: 1;
+    overflow: hidden;
+    width: 100%;
+    border: 3px transparent;
+    transition: color 0.3s ease-in-out, background 0.3s ease-in-out, border 0.3s ease-in-out;
+}
+
+
+.btn-primary-gradient:hover {
+    color: transparent;
+    background-color: var(--white-color);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-image: var(--blue-gradient);
+}
+
+.btn-primary-gradient::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border-radius: 5px;
+    padding: 3px;
+    background: var(--blue-gradient);
+    -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+    mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+    -webkit-mask-composite: xor;
+    mask-composite: exclude;
+    pointer-events: none;
+    transition: opacity 0.3s ease-in-out;
+    opacity: 0;
+}
+
+.btn-primary-gradient:hover::before {
+    opacity: 1;
 }

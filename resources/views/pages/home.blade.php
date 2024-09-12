@@ -267,12 +267,7 @@
                             <div class="img-1">
                                 <img src="assets/img/about/ab-1-1.jpg" alt="About image">
                             </div>
-                            <div class="img-2">
-                                <img src="assets/img/about/ab-1-2.jpg" alt="About image">
-                                <a class="play-btn style2 position-center popup-video"
-                                    href="https://www.youtube.com/watch?v=_sI_Ps7JSEk"><i class=""><i
-                                            class="fas fa-play"></i></i></a>
-                            </div>
+
                         </div>
                     </div>
                     <div class="col-lg-6 col-xl-7 align-self-center wow fadeInUp" data-wow-delay="0.3s">
@@ -300,7 +295,7 @@
                 <div class="col-lg-8 col-xl-6 wow fadeInUp" data-wow-delay="0.2s">
                     <div class="title-area">
                         {{-- <span class="sec-subtitle">Our Latest Services</span> --}}
-                        <h2 class="sec-title h1">Layanan <span class="text-primary-color">Craftwave.id</span></h2>
+                        <h2 class="sec-title h1">Layanan <span class="text-blue-gradient">Craftwave.id</span></h2>
                     </div>
                 </div>
             </div>
@@ -309,9 +304,9 @@
                     <div class="service-style1">
                         {{-- <div class="service-bg" data-bg-src="assets/img/bg/sr-box-bg-1.jpg"></div> --}}
                         <div class="service-icon"><img src="assets/img/icon/sr-icon-1-1.png" alt="Features"></div>
-                        <h3 class="service-title h5"><a href="service-details.html">Pengelolaan Sosial Media</a></h3>
+                        <h3 class="service-title h5"><a href="">Pengelolaan Sosial Media</a></h3>
                         <p class="service-text">Tingkatkan brand Anda dengan strategi social media yang menghubungkan dan menginspirasi.</p>
-                        <a href="service-details.html" class="vs-btn style3">Selengkapnya<i
+                        <a href="" class="vs-btn style3">Pesan Sekarang<i
                                 class="far fa-long-arrow-right"></i></a>
                     </div>
                 </div>
@@ -319,9 +314,9 @@
                     <div class="service-style1">
                         {{-- <div class="service-bg" data-bg-src="assets/img/bg/sr-box-bg-1.jpg"></div> --}}
                         <div class="service-icon"><img src="assets/img/icon/sr-icon-1-2.png" alt="Features"></div>
-                        <h3 class="service-title h5"><a href="service-details.html">Pembuatan Website</a></h3>
+                        <h3 class="service-title h5"><a href="">Pembuatan Website</a></h3>
                         <p class="service-text">Dapatkan website elegan yang mengesankan dan mengonversi pengunjung menjadi pelanggan setia.</p>
-                        <a href="service-details.html" class="vs-btn style3">Selengkapnya<i
+                        <a href="" class="vs-btn style3">Pesan Sekarang<i
                                 class="far fa-long-arrow-right"></i></a>
                     </div>
                 </div>
@@ -374,7 +369,7 @@
                 <div class="col-xl-6">
                     <div class="title-area">
                         {{-- <span class="sec-subtitle">Weekly Updates</span> --}}
-                        <h2 class="sec-title h1">Portofolio <span class="text-primary-color">Kami</span></h2>
+                        <h2 class="sec-title h1">Portofolio <span class="text-blue-gradient">Kami</span></h2>
                     </div>
                 </div>
             </div>
@@ -443,13 +438,13 @@
     </section>
 
     <!--Testimonial Area-->
-    <section class=" space-top space-extra-bottom">
+    <section class=" space-extra-bottom">
         <div class="container wow fadeInUp" data-wow-delay="0.2s">
             <div class="row justify-content-between">
                 <div class="col-lg-auto text-center text-lg-start">
                     <div class="title-area">
                         {{-- <span class="sec-subtitle"><i class="fas fa-bring-forward"></i>Our Best Review’s</span> --}}
-                        <h2 class="sec-title h1">Kata <span class="text-primary-color">Mereka</span></h2>
+                        <h2 class="sec-title h1">Kata <span class="text-blue-gradient">Mereka</span></h2>
                     </div>
                 </div>
                 <div class="col-auto d-none d-lg-block">
@@ -507,13 +502,13 @@
     </section>
 
     <!--Team Area-->
-    <section class=" space-top space-extra-bottom">
+    <section class="space-extra-bottom">
         <div class="container wow fadeInUp" data-wow-delay="0.2s">
             <div class="row justify-content-center text-center">
                 <div class="col-xl-6">
                     <div class="title-area">
                         {{-- <span class="sec-subtitle">Great Team Members</span> --}}
-                        <h2 class="sec-title h1">Tim <span class="text-primary-color">Kami</span></h2>
+                        <h2 class="sec-title h1">Tim <span class="text-blue-gradient">Kami</span></h2>
                     </div>
                 </div>
             </div>

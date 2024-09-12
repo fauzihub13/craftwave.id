@@ -83,7 +83,7 @@ Version: 1.0.0
     --success-color: #28a745;
     --error-color: #dc3545;
     --border-color: #E0E0E0;
-    --blue-gradient: linear-gradient(180deg, #0ABDF5, #0B4496);
+    --blue-gradient: linear-gradient(135deg, #0B4496, #0ABDF5);
     --title-font: "Exo", sans-serif;
     --body-font: "Fira Sans", sans-serif;
     --icon-font: "Font Awesome 5 Pro";
@@ -1550,11 +1550,11 @@ textarea.is-invalid {
 }
 
 .vs-menu-wrapper .mobile-logo {
-    padding-bottom: 30px;
-    padding-top: 40px;
+    /* padding-bottom: 30px;
+    padding-top: 40px; */
     display: block;
     text-align: center;
-    background-color: rgba(28, 185, 200, 0.1);
+    /* background-color: rgba(28, 185, 200, 0.1); */
 }
 
 .vs-menu-wrapper .mobile-logo svg {
@@ -10576,7 +10576,7 @@ blockquote.vs-quote .quote-author {
     line-height: 90px;
     text-align: center;
     margin: 0 25px 0 0;
-    background-color: var(--theme-color);
+    background: var(--blue-gradient);
     border-radius: 5px;
 }
 
@@ -12605,9 +12605,7 @@ blockquote.vs-quote .quote-author {
 }
 
 .price-style1 .price-shape {
-    /* background-color: linear-gradient(180deg, #0ABDF5, #0B4496); */
-    /* background: rgb(2, 0, 36); */
-    background: linear-gradient(180deg, #0ABDF5, #0B4496);
+    /* background: linear-gradient(180deg, #0ABDF5, #0B4496); */
     position: absolute;
     left: 0;
     top: 0;
@@ -12688,7 +12686,7 @@ blockquote.vs-quote .quote-author {
 .slick-center .price-style1 .price-shape,
 .price-style1:hover .price-shape {
     opacity: 1;
-    visibility: visible;
+    /* visibility: visible; */
     transform: scale(1);
 }
 
@@ -12698,18 +12696,18 @@ blockquote.vs-quote .quote-author {
 .price-style1:hover .price-duration,
 .price-style1:hover .price-amount,
 .price-style1:hover .price-package {
-    color: var(--white-color);
+    /* color: var(--white-color); */
 }
 
 .slick-center .price-style1 .vs-btn,
 .price-style1:hover .vs-btn {
     background-color: var(--white-color);
-    color: var(--theme-color);
+    /* color: var(--theme-color); */
 }
 
 .slick-center .price-style1 .vs-btn:hover,
 .price-style1:hover .vs-btn:hover {
-    color: var(--white-color);
+    /* color: var(--white-color); */
 }
 
 .package-style2 .package-inner {

@@ -33,7 +33,7 @@
             <div class="row justify-content-center text-center">
                 <div class="col-lg-8 col-xl-6 wow fadeInUp" data-wow-delay="0.2s">
                     <div class="title-area">
-                        <h2 class="sec-title h1">Layanan <span class="text-primary-color">Craftwave.id</span></h2>
+                        <h2 class="sec-title h1">Layanan <span class="text-blue-gradient">Craftwave.id</span></h2>
                     </div>
                 </div>
             </div>
@@ -60,7 +60,7 @@
                     <div class="price-style1 primary-color">
                         <div class="price-shape"></div>
                         <h3 class="price-package h5">Landing Page</h3>
-                        <div class="price-amount h1">349k <span class="price-duration"><s>499k</s></span></div>
+                        <div class="price-amount h1 text-blue-gradient">499k <span class="price-duration"><s></s></span></div>
                         <div class="price-features">
                             <ul>
                                 <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>1 halaman website statis</li>
@@ -71,14 +71,16 @@
                                 <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>Integrasi sosial media</li>
                             </ul>
                         </div>
-                        <a href="#" class="vs-btn">Pesan<i class="far fa-arrow-right"></i></a>
+                        <a href="#" class="btn-primary-gradient">Pesan Sekarang  <i class="far fa-arrow-right"></i></a>
+
+
                     </div>
                 </div>
                 <div class="col-xl-4">
                     <div class="price-style1">
                         <div class="price-shape" ></div>
                         <h3 class="price-package h5">Premium Website</h3>
-                        <div class="price-amount h1">849k <span class="price-duration"><s>999k</s></span></div>
+                        <div class="price-amount h1 text-blue-gradient">999k <span class="price-duration"><s></s></span></div>
                         <div class="price-features">
                             <ul>
                                 <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>5 halaman website statis</li>
@@ -92,14 +94,14 @@
                                 <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>Free Banner</li>
                             </ul>
                         </div>
-                        <a href="#" class="vs-btn">Pesan<i class="far fa-arrow-right"></i></a>
+                        <a href="#" class="btn-primary-gradient">Pesan Sekarang  <i class="far fa-arrow-right"></i></a>
                     </div>
                 </div>
                 <div class="col-xl-4">
                     <div class="price-style1">
                         <div class="price-shape"></div>
                         <h3 class="price-package h5">Custom Website</h3>
-                        <div class="price-amount h1">1500k <span class="price-duration">mulai dari</span></div>
+                        <div class="price-amount h1 text-blue-gradient">1500k <span class="price-duration">mulai dari</span></div>
                         <div class="price-features">
                             <ul>
                                 <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>Halaman website dinamis</li>
@@ -114,7 +116,7 @@
                                 <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>Free Banner</li>
                             </ul>
                         </div>
-                        <a href="#" class="vs-btn">Pesan<i class="far fa-arrow-right"></i></a>
+                        <a href="#" class="btn-primary-gradient">Pesan Sekarang  <i class="far fa-arrow-right"></i></a>
                     </div>
                 </div>
             </div>
@@ -125,8 +127,8 @@
                 <div class="col-xl-4">
                     <div class="price-style1">
                         <div class="price-shape"></div>
-                        <h3 class="price-package h5">Basic Mingguan</h3>
-                        <div class="price-amount h1">99k <span class="price-duration"><s>159k</s></span></div>
+                        <h3 class="price-package h5 ">Basic Mingguan</h3>
+                        <div class="price-amount h1 text-blue-gradient">159k <span class="price-duration"><s></s></span></div>
                         <div class="price-features">
                             <ul>
                                 <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>3 Postingan Instagram per minggu (gambar atau carousel).</li>
@@ -135,14 +137,14 @@
                                 <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>Laporan mingguan performa media sosial.</li>
                             </ul>
                         </div>
-                        <a href="contact.html" class="vs-btn">Get Started<i class="far fa-arrow-right"></i></a>
+                        <a href="contact.html" class="btn-primary-gradient">Pesan Sekarang  <i class="far fa-arrow-right"></i></a>
                     </div>
                 </div>
                 <div class="col-xl-4">
                     <div class="price-style1">
                         <div class="price-shape"></div>
                         <h3 class="price-package h5">Basic Mingguan</h3>
-                        <div class="price-amount h1">149k <span class="price-duration"><s>219k</s></span></div>
+                        <div class="price-amount h1 text-blue-gradient">219k <span class="price-duration"><s></s></span></div>
                         <div class="price-features">
                             <ul>
                                 <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>6 Postingan Instagram per minggu (gambar, carousel, atau video pendek).</li>
@@ -151,14 +153,14 @@
                                 <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>Laporan mingguan performa media sosial.</li>
                             </ul>
                         </div>
-                        <a href="contact.html" class="vs-btn">Get Started<i class="far fa-arrow-right"></i></a>
+                        <a href="contact.html" class="btn-primary-gradient">Pesan Sekarang  <i class="far fa-arrow-right"></i></a>
                     </div>
                 </div>
                 <div class="col-xl-4">
                     <div class="price-style1">
                         <div class="price-shape"></div>
                         <h3 class="price-package h5">Basic Mingguan</h3>
-                        <div class="price-amount h1">299k <span class="price-duration"><s>359k</s></span></div>
+                        <div class="price-amount h1 text-blue-gradient">359k <span class="price-duration"><s></s></span></div>
                         <div class="price-features">
                             <ul>
                                 <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>9 Postingan Instagram per bulan (gambar, carousel, atau video pendek).</li>
@@ -167,14 +169,14 @@
                                 <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>Laporan bulanan  performa media sosial.</li>
                             </ul>
                         </div>
-                        <a href="contact.html" class="vs-btn">Get Started<i class="far fa-arrow-right"></i></a>
+                        <a href="contact.html" class="btn-primary-gradient">Pesan Sekarang  <i class="far fa-arrow-right"></i></a>
                     </div>
                 </div>
                 <div class="col-xl-4">
                     <div class="price-style1">
                         <div class="price-shape"></div>
                         <h3 class="price-package h5">Premium Bulanan</h3>
-                        <div class="price-amount h1">349k <span class="price-duration"><s>459k</s></span></div>
+                        <div class="price-amount h1 text-blue-gradient">459k <span class="price-duration"><s></s></span></div>
                         <div class="price-features">
                             <ul>
                                 <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>12 Postingan Instagram per bulan (gambar, carousel, atau video pendek).</li>
@@ -184,7 +186,7 @@
                                 <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>Laporan bulanan  performa media sosial.</li>
                             </ul>
                         </div>
-                        <a href="contact.html" class="vs-btn">Get Started<i class="far fa-arrow-right"></i></a>
+                        <a href="contact.html" class="btn-primary-gradient">Pesan Sekarang  <i class="far fa-arrow-right"></i></a>
                     </div>
                 </div>
             </div>
