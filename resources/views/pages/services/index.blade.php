@@ -29,6 +29,7 @@
     <!--Service Area-->
     <section class=" space-top space-extra-bottom" data-bg-src="assets/img/bg/sr-bg-1-1.png">
         <div class="container">
+
             <div class="row justify-content-center text-center">
                 <div class="col-lg-8 col-xl-6 wow fadeInUp" data-wow-delay="0.2s">
                     <div class="title-area">
@@ -54,9 +55,9 @@
             </div>
 
             {{-- Tab Website --}}
-            <div class="row " data-slide-show="3" data-md-slide-show="2" data-center-mode="true" id="tab-services-content-1">
+            <div class="row " data-slide-show="3" data-md-slide-show="2" id="tab-services-content-1">
                 <div class="col-xl-4">
-                    <div class="price-style1">
+                    <div class="price-style1 primary-color">
                         <div class="price-shape"></div>
                         <h3 class="price-package h5">Landing Page</h3>
                         <div class="price-amount h1">349k <span class="price-duration"><s>499k</s></span></div>
@@ -70,7 +71,7 @@
                                 <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>Integrasi sosial media</li>
                             </ul>
                         </div>
-                        <a href="contact.html" class="vs-btn">Get Started<i class="far fa-arrow-right"></i></a>
+                        <a href="#" class="vs-btn">Pesan<i class="far fa-arrow-right"></i></a>
                     </div>
                 </div>
                 <div class="col-xl-4">
@@ -91,7 +92,7 @@
                                 <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>Free Banner</li>
                             </ul>
                         </div>
-                        <a href="contact.html" class="vs-btn">Get Started<i class="far fa-arrow-right"></i></a>
+                        <a href="#" class="vs-btn">Pesan<i class="far fa-arrow-right"></i></a>
                     </div>
                 </div>
                 <div class="col-xl-4">
@@ -113,13 +114,13 @@
                                 <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>Free Banner</li>
                             </ul>
                         </div>
-                        <a href="contact.html" class="vs-btn">Get Started<i class="far fa-arrow-right"></i></a>
+                        <a href="#" class="vs-btn">Pesan<i class="far fa-arrow-right"></i></a>
                     </div>
                 </div>
             </div>
 
             {{-- Tab Sosial Media --}}
-            <div class="row " data-slide-show="3" data-md-slide-show="2" data-center-mode="true" id="tab-services-content-2">
+            <div class="row " data-slide-show="3" data-md-slide-show="2"  id="tab-services-content-2">
 
                 <div class="col-xl-4">
                     <div class="price-style1">

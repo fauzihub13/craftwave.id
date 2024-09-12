@@ -39,20 +39,20 @@
                             <nav class="main-menu menu-style1 d-none d-lg-block">
                                 <ul>
                                     <li class="">
-                                        <a href="{{ route('beranda') }}">Beranda</a>
+                                        <a href="{{ route('beranda') }}" class="{{ Request::is('/') ? 'text-primary-color border-primary-custom' : '' }}">Beranda</a>
                                     </li>
                                     <li>
-                                        <a href="{{ route('tentang-kami') }}">Tentang Kami</a>
+                                        <a href="{{ route('tentang-kami') }}" class="{{ Request::is('tentang-kami') ? 'text-primary-color border-primary-custom' : '' }}">Tentang Kami</a>
                                     </li>
                                     <li class="">
-                                        <a href="{{ route('layanan.index') }}">Layanan</a>
+                                        <a href="{{ route('layanan.index') }}" class="{{ Request::is('layanan') ? 'text-primary-color border-primary-custom' : '' }}">Layanan</a>
                                     </li>
                                     <li class="">
-                                        <a href="{{ route('portofolio') }}">Portofolio</a>
+                                        <a href="{{ route('portofolio') }}" class="{{ Request::is('portofolio') ? 'text-primary-color border-primary-custom' : '' }}">Portofolio</a>
 
                                     </li>
                                     <li>
-                                        <a href="{{ route('hubungi-kami') }}">Hubungi Kami</a>
+                                        <a href="{{ route('hubungi-kami') }}" class="{{ Request::is('hubungi-kami') ? 'text-primary-color border-primary-custom' : '' }}">Hubungi Kami</a>
                                     </li>
                                 </ul>
                             </nav>

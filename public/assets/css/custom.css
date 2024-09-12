@@ -13,3 +13,7 @@ a.tab-services {
 a.tab-services:hover {
     color: var(--theme-color);
 }
+
+.primary-color-gradient{
+    background: linear-gradient(180deg, #0ABDF5, #0B4496) !important;
+}
