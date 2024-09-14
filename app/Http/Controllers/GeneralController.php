@@ -36,6 +36,6 @@ class GeneralController extends Controller
     }
 
     public function kirimPesan() {
-
+        
     }
 }

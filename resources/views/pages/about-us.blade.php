@@ -94,9 +94,9 @@
                 </div>
                 <div class="col-auto d-none d-lg-block">
                     <div class="sec-btns">
-                        <button class="vs-btn style4" data-slick-prev="#testislide1"><i
+                        <button class="btn-secondary-white" data-slick-prev="#testislide1"><i
                                 class="far fa-arrow-left"></i></button>
-                        <button class="vs-btn style4" data-slick-next="#testislide1"><i
+                        <button class="btn-secondary-white" data-slick-next="#testislide1"><i
                                 class="far fa-arrow-right"></i></button>
                     </div>
                 </div>
