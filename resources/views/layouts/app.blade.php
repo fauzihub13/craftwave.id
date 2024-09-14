@@ -6,8 +6,24 @@
     <meta content="width=device-width, initial-scale=1, maximum-scale=1, shrink-to-fit=no"
         name="viewport">
     <title>@yield('title') Craftwave.id</title>
+    <link rel="icon" type="image/x-icon" href="{{ asset('assets/img/craftwave/logo/logo.png') }}">
 
-    <link rel="icon" type="image/x-icon" href="{{ asset('img/sbs/logo_sbs.png') }}">
+    {{-- Meta Tags --}}
+    <meta name="title" content="Craftwave.id">
+    <meta name="apple-mobile-web-app-title" content="Craftwave.id">
+    <meta name="description" content="Craftwave.id adalah startup yang menyediakan jasa pembuatan website profesional dan manajemen konten sosial media. ">
+    <meta name="keywords" content="Jasa Pembuatan Website, Kelola Sosial Media, Digital Agency, Content Management, Website Builder, Design Instagram, Jasa Design">
+    <meta name="robots" content="index, follow">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="author" content="Craftwave.id">
+    <meta property="og:title" content="Craftwave.id | Pembuatan Website & Kelola Sosial Media">
+    <meta property="og:type" content="website" />
+    <meta property="og:description" content="Craftwave.id adalah startup yang menyediakan jasa pembuatan website profesional dan manajemen konten sosial media.">
+    <meta property="og:url" content="https://craftwave.id">
+    <meta property="og:image" content="">
+    <meta property="og:site_name" content="Craftwave.id">
+    <meta property="og:locale" content="id_ID" />
+    <meta property="og:determiner" content="Craftwave.id.id" />
 
     <!-- General CSS Files -->
 

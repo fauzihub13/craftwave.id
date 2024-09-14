@@ -64,19 +64,7 @@
                             </div>
                         </div>
                     </div>
-                    {{-- <div class="col-md-6 col-lg-2 col-xl-auto">
-                        <div class="widget widget_nav_menu  footer-widget">
-                            <h3 class="widget_title">Explore</h3>
-                            <div class="menu-all-pages-container">
-                                <ul class="menu">
-                                    <li><a href="#">What we Offer</a></li>
-                                    <li><a href="#">Our Story</a></li>
-                                    <li><a href="#">Latest Posts</a></li>
-                                    <li><a href="#">Help Center</a></li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div> --}}
+                    
                     <div class="col-md-6 col-lg-4 col-xl-auto">
                         <div class="widget footer-widget">
                             <h3 class="widget_title">Lokasi Kami</h3>
