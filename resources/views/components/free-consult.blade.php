@@ -6,7 +6,7 @@
                     <h2 class="h1 sec-title cta-title1">Butuh Konsultasi?</h2>
                 </div>
                 <div class="col-lg-auto">
-                    <a href="#" class="btn-secondary-white">Konsultasi Gratis  <i class="far fa-arrow-right"></i></a>
+                    <a href="{{ route('konsultasi', ' ') }}" class="btn-secondary-white">Konsultasi Gratis  <i class="far fa-arrow-right"></i></a>
                 </div>
             </div>
         </div>

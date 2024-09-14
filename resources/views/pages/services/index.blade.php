@@ -27,9 +27,8 @@
     <!--Service Area-->
 
     <!--Service Area-->
-    <section class=" space-top space-extra-bottom" data-bg-src="assets/img/bg/sr-bg-1-1.png">
+    <section class=" space-top space-extra-bottom" data-bg-src="">
         <div class="container">
-
             <div class="row justify-content-center text-center">
                 <div class="col-lg-8 col-xl-6 wow fadeInUp" data-wow-delay="0.2s">
                     <div class="title-area">
@@ -71,7 +70,7 @@
                                 <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>Integrasi sosial media</li>
                             </ul>
                         </div>
-                        <a href="#" class="btn-primary-gradient w-100">Pesan Sekarang  <i class="far fa-arrow-right"></i></a>
+                        <a href="{{ route('konsultasi', 'Pembuatan Landing Page') }}" class="btn-primary-gradient w-100">Pesan Sekarang  <i class="far fa-arrow-right"></i></a>
 
 
                     </div>
@@ -94,7 +93,7 @@
                                 <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>Free Banner</li>
                             </ul>
                         </div>
-                        <a href="#" class="btn-primary-gradient w-100">Pesan Sekarang  <i class="far fa-arrow-right"></i></a>
+                        <a href="{{ route('konsultasi', 'Pembuatan Premium Website') }}" class="btn-primary-gradient w-100">Pesan Sekarang  <i class="far fa-arrow-right"></i></a>
                     </div>
                 </div>
                 <div class="col-xl-4">
@@ -116,7 +115,7 @@
                                 <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>Free Banner</li>
                             </ul>
                         </div>
-                        <a href="#" class="btn-primary-gradient w-100">Pesan Sekarang  <i class="far fa-arrow-right"></i></a>
+                        <a href="{{ route('konsultasi', 'Pembuatan Custom Website') }}" class="btn-primary-gradient w-100">Pesan Sekarang  <i class="far fa-arrow-right"></i></a>
                     </div>
                 </div>
             </div>
@@ -137,13 +136,13 @@
                                 <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>Laporan mingguan performa media sosial.</li>
                             </ul>
                         </div>
-                        <a href="#" class="btn-primary-gradient w-100">Pesan Sekarang  <i class="far fa-arrow-right"></i></a>
+                        <a href="{{ route('konsultasi', 'Kelola Sosial Media Basic Mingguan') }}" class="btn-primary-gradient w-100">Pesan Sekarang  <i class="far fa-arrow-right"></i></a>
                     </div>
                 </div>
                 <div class="col-xl-4">
                     <div class="price-style1">
                         <div class="price-shape"></div>
-                        <h3 class="price-package h5">Basic Mingguan</h3>
+                        <h3 class="price-package h5">Premium Mingguan</h3>
                         <div class="price-amount h1 text-blue-gradient">219k <span class="price-duration"><s></s></span></div>
                         <div class="price-features">
                             <ul>
@@ -153,13 +152,13 @@
                                 <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>Laporan mingguan performa media sosial.</li>
                             </ul>
                         </div>
-                        <a href="#" class="btn-primary-gradient w-100">Pesan Sekarang  <i class="far fa-arrow-right"></i></a>
+                        <a href="{{ route('konsultasi', 'Kelola Sosial Media Premium Mingguan') }}" class="btn-primary-gradient w-100">Pesan Sekarang  <i class="far fa-arrow-right"></i></a>
                     </div>
                 </div>
                 <div class="col-xl-4">
                     <div class="price-style1">
                         <div class="price-shape"></div>
-                        <h3 class="price-package h5">Basic Mingguan</h3>
+                        <h3 class="price-package h5">Basic Bulanan</h3>
                         <div class="price-amount h1 text-blue-gradient">359k <span class="price-duration"><s></s></span></div>
                         <div class="price-features">
                             <ul>
@@ -169,7 +168,7 @@
                                 <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>Laporan bulanan  performa media sosial.</li>
                             </ul>
                         </div>
-                        <a href="#" class="btn-primary-gradient w-100">Pesan Sekarang  <i class="far fa-arrow-right"></i></a>
+                        <a href="{{ route('konsultasi', 'Kelola Sosial Media Basic Bulanan') }}" class="btn-primary-gradient w-100">Pesan Sekarang  <i class="far fa-arrow-right"></i></a>
                     </div>
                 </div>
                 <div class="col-xl-4">
@@ -186,7 +185,7 @@
                                 <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>Laporan bulanan  performa media sosial.</li>
                             </ul>
                         </div>
-                        <a href="#" class="btn-primary-gradient w-100">Pesan Sekarang  <i class="far fa-arrow-right"></i></a>
+                        <a href="{{ route('konsultasi', 'Kelola Sosial Media Premium Bulanan') }}" class="btn-primary-gradient w-100">Pesan Sekarang  <i class="far fa-arrow-right"></i></a>
                     </div>
                 </div>
             </div>

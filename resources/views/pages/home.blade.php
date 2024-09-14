@@ -283,7 +283,7 @@
                                 <p class="call-media__info">Hubungi Kami: <a href="tel:+6289684781433">+62 896 8478 1433</a></p>
                             </div>
                         </div>
-                        <a href="#" class="btn-primary-gradient">Tentang Kami  <i class="far fa-long-arrow-right"></i></a>
+                        <a href="{{ route('tentang-kami') }}" class="btn-primary-gradient">Tentang Kami  <i class="far fa-long-arrow-right"></i></a>
                     </div>
                 </div>
             </div>
@@ -306,7 +306,7 @@
                         <div class="service-icon"><img src="assets/img/icon/sr-icon-1-1.png" alt="Features"></div>
                         <h3 class="service-title h5"><a href="">Pengelolaan Sosial Media</a></h3>
                         <p class="service-text">Tingkatkan brand Anda dengan strategi social media yang menghubungkan dan menginspirasi.</p>
-                        <a href="" class="btn-secondary-smoke">Pesan Sekarang <i
+                        <a href="{{ route('layanan.index') }}" class="btn-secondary-smoke">Pesan Sekarang <i
                                 class="far fa-long-arrow-right"></i></a>
                     </div>
                 </div>
@@ -315,7 +315,7 @@
                         <div class="service-icon"><img src="assets/img/icon/sr-icon-1-2.png" alt="Features"></div>
                         <h3 class="service-title h5"><a href="">Pembuatan Website</a></h3>
                         <p class="service-text">Dapatkan website elegan yang mengesankan dan mengonversi pengunjung menjadi pelanggan setia.</p>
-                        <a href="" class="btn-secondary-smoke">Pesan Sekarang <i
+                        <a href="{{ route('layanan.index') }}" class="btn-secondary-smoke">Pesan Sekarang <i
                                 class="far fa-long-arrow-right"></i></a>
                     </div>
                 </div>

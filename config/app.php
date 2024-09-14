@@ -55,6 +55,7 @@ return [
     'url' => env('APP_URL', 'http://localhost'),
     'telegram_bot_token'=>env('TELEGRAM_BOT_TOKEN'),
     'telegram_client_id'=>env('TELEGRAM_CLIENT_ID'),
+    'phone_number'=>env('PHONE_NUMBER'),
 
     /*
     |--------------------------------------------------------------------------

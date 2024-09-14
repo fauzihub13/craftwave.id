@@ -23,14 +23,6 @@ class GeneralController extends Controller
         return view('pages.services.index');
     }
 
-    public function layananWebsite() {
-        return view('pages.services.website');
-    }
-
-    public function layananSosialMedia() {
-        return view('pages.services.social-media');
-    }
-
     public function portofolio() {
         return view('pages.portfolio.index');
     }
