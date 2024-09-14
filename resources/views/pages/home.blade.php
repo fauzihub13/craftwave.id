@@ -46,7 +46,7 @@
                     class="ls-l ls-hide-tablet ls-hide-phone ls-html-layer"
                     data-ls="offsetyin:50; durationin:1500; delayin:900; easingin:easeOutQuint; offsetyout:50; durationout:1500; easingout:easeOutQuint; position:relative;">
                     <div class="ls-btn-group">
-                        <a href="#" class="btn-secondary-white ls-hero-btn">KONSULTASI SEKARANG  <i class="far fa-arrow-right"></i></a>
+                        <a href="{{ route('konsultasi', ' ') }}" class="btn-secondary-white ls-hero-btn">KONSULTASI SEKARANG  <i class="far fa-arrow-right"></i></a>
                     </div>
                 </div>
                 <p style="font-size:32px; text-align:left; font-style:normal; text-decoration:none; text-transform:none; font-weight:600; letter-spacing:0px; border-style:solid; background-position:0% 0%; background-repeat:no-repeat; font-family:Exo; color:#ffffff; border-width:2px 2px 2px 2px; border-color:#ffffff; border-radius:5px 5px 5px 5px; padding-top:18px; padding-right:44px; padding-left:44px; top:160px; left:90px; padding-bottom:18px;"
@@ -67,7 +67,7 @@
                     class="ls-l ls-hide-desktop ls-hide-phone ls-html-layer"
                     data-ls="offsetyin:50; durationin:1500; delayin:900; easingin:easeOutQuint; offsetyout:50; durationout:1500; easingout:easeOutQuint; position:relative;">
                     <div class="ls-btn-group">
-                        <a href="#" class="btn-secondary-whitels-hero-btn">KONSULTASI SEKARANG  <i class="far fa-arrow-right"></i></a>
+                        <a href="{{ route('konsultasi', ' ') }}" class="btn-secondary-whitels-hero-btn">KONSULTASI SEKARANG  <i class="far fa-arrow-right"></i></a>
                     </div>
                 </div>
                 <h1 style="top:120px; left:50%; text-align:center; font-weight:700; background-size:inherit; background-position:inherit; font-size:130px; color:#ffffff; font-family:Exo; width:10000px;"
@@ -84,7 +84,7 @@
                     class="ls-l ls-hide-desktop ls-hide-tablet ls-html-layer"
                     data-ls="offsetyin:50; durationin:1500; delayin:900; easingin:easeOutQuint; offsetyout:50; durationout:1500; easingout:easeOutQuint; position:relative;">
                     <div class="ls-btn-group">
-                        <a href="#" class="btn-secondary-white ls-hero-btn">KONSULTASI SEKARANG  <i class="far fa-arrow-right"></i></a>
+                        <a href="{{ route('konsultasi', ' ') }}" class="btn-secondary-white ls-hero-btn">KONSULTASI SEKARANG  <i class="far fa-arrow-right"></i></a>
                     </div>
                 </div>
                 <a class="ls-l ls-hide-tablet ls-hide-phone" href="#next" target="_self" data-ls="static:forever;">
@@ -134,7 +134,7 @@
                     class="ls-l ls-hide-tablet ls-hide-phone ls-html-layer"
                     data-ls="offsetyin:50; durationin:1500; delayin:900; easingin:easeOutQuint; offsetyout:50; durationout:1500; easingout:easeOutQuint; position:relative;">
                     <div class="ls-btn-group">
-                        <a href="#" class="btn-secondary-white ls-hero-btn">KONSULTASI SEKARANG  <i class="far fa-arrow-right"></i></a>
+                        <a href="{{ route('konsultasi', ' ') }}" class="btn-secondary-white ls-hero-btn">KONSULTASI SEKARANG  <i class="far fa-arrow-right"></i></a>
                     </div>
                 </div>
                 <p style="font-size:32px; text-align:left; font-style:normal; text-decoration:none; text-transform:none; font-weight:600; letter-spacing:0px; border-style:solid; background-position:0% 0%; background-repeat:no-repeat; font-family:Exo; color:#ffffff; border-width:2px 2px 2px 2px; border-color:#ffffff; border-radius:5px 5px 5px 5px; padding-top:18px; padding-right:44px; padding-left:44px; top:160px; left:90px; padding-bottom:18px;"
@@ -155,7 +155,7 @@
                     class="ls-l ls-hide-desktop ls-hide-phone ls-html-layer"
                     data-ls="offsetyin:50; durationin:1500; delayin:900; easingin:easeOutQuint; offsetyout:50; durationout:1500; easingout:easeOutQuint; position:relative;">
                     <div class="ls-btn-group">
-                        <a href="#" class="btn-secondary-white ls-hero-btn">KONSULTASI SEKARANG  <i class="far fa-arrow-right"></i></a>
+                        <a href="{{ route('konsultasi', ' ') }}" class="btn-secondary-white ls-hero-btn">KONSULTASI SEKARANG  <i class="far fa-arrow-right"></i></a>
                     </div>
                 </div>
                 <h1 style="top:120px; left:50%; text-align:center; font-weight:700; background-size:inherit; background-position:inherit; font-size:130px; color:#ffffff; font-family:Exo; width:10000px;"
@@ -172,7 +172,7 @@
                     class="ls-l ls-hide-desktop ls-hide-tablet ls-html-layer"
                     data-ls="offsetyin:50; durationin:1500; delayin:900; easingin:easeOutQuint; offsetyout:50; durationout:1500; easingout:easeOutQuint; position:relative;">
                     <div class="ls-btn-group">
-                        <a href="#" class="btn-secondary-white ls-hero-btn">KONSULTASI SEKARANG  <i class="far fa-arrow-right"></i></a>
+                        <a href="{{ route('konsultasi', ' ') }}" class="btn-secondary-white ls-hero-btn">KONSULTASI SEKARANG  <i class="far fa-arrow-right"></i></a>
                     </div>
                 </div>
             </div>
@@ -209,7 +209,7 @@
                     class="ls-l ls-hide-tablet ls-hide-phone ls-html-layer"
                     data-ls="offsetyin:50; durationin:1500; delayin:900; easingin:easeOutQuint; offsetyout:50; durationout:1500; easingout:easeOutQuint; position:relative;">
                     <div class="ls-btn-group">
-                        <a href="#" class="btn-secondary-white ls-hero-btn">KONSULTASI SEKARANG  <i class="far fa-arrow-right"></i></a>
+                        <a href="{{ route('konsultasi', ' ') }}" class="btn-secondary-white ls-hero-btn">KONSULTASI SEKARANG  <i class="far fa-arrow-right"></i></a>
                     </div>
                 </div>
                 <p style="font-size:32px; text-align:left; font-style:normal; text-decoration:none; text-transform:none; font-weight:600; letter-spacing:0px; border-style:solid; background-position:0% 0%; background-repeat:no-repeat; font-family:Exo; color:#ffffff; border-width:2px 2px 2px 2px; border-color:#ffffff; border-radius:5px 5px 5px 5px; padding-top:18px; padding-right:44px; padding-left:44px; top:160px; left:90px; padding-bottom:18px;"
@@ -230,7 +230,7 @@
                     class="ls-l ls-hide-desktop ls-hide-phone ls-html-layer"
                     data-ls="offsetyin:50; durationin:1500; delayin:900; easingin:easeOutQuint; offsetyout:50; durationout:1500; easingout:easeOutQuint; position:relative;">
                     <div class="ls-btn-group">
-                        <a href="" class="btn-secondary-white ls-hero-btn">KONSULTASI SEKARANG  <i class="far fa-arrow-right"></i></a>
+                        <a href="{{ route('konsultasi', ' ') }}" class="btn-secondary-white ls-hero-btn">KONSULTASI SEKARANG  <i class="far fa-arrow-right"></i></a>
                     </div>
                 </div>
                 <h1 style="top:120px; left:50%; text-align:center; font-weight:700; background-size:inherit; background-position:inherit; font-size:130px; color:#ffffff; font-family:Exo; width:10000px;"
@@ -247,7 +247,7 @@
                     class="ls-l ls-hide-desktop ls-hide-tablet ls-html-layer"
                     data-ls="offsetyin:50; durationin:1500; delayin:900; easingin:easeOutQuint; offsetyout:50; durationout:1500; easingout:easeOutQuint; position:relative;">
                     <div class="ls-btn-group">
-                        <a href="#" class="btn-secondary-white ls-hero-btn">KONSULTASI SEKARANG  <i class="far fa-arrow-right"></i></a>
+                        <a href="{{ route('konsultasi', ' ') }}" class="btn-secondary-white ls-hero-btn">KONSULTASI SEKARANG  <i class="far fa-arrow-right"></i></a>
                     </div>
                 </div>
             </div>

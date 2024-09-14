@@ -40,7 +40,7 @@
                                     <div class="contact-box__icon"><i class="fal fa-phone-alt"></i></div>
                                     <div class="media-body">
                                         <h4 class="contact-box__label">No Hp dan Email</h4>
-                                        <p class="contact-box__info"><a href="tel:+310259121563">+62 896 8478 1433</a><a
+                                        <p class="contact-box__info"><a href="{{ route('konsultasi', ' ') }}">+62 896 8478 1433</a><a
                                                 href="mailto:craftwave.id@gmail.com">craftwave.id@gmail.com</a></p>
                                     </div>
                                 </div>

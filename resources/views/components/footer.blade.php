@@ -28,7 +28,7 @@
                                 <span class="footer-info_label">Hubungi Kami</span>
                                 <div class="footer-info_link"><a
                                         href="mailto:craftwave.id@gmail.com">craftwave.id@gmail.com</a><br><a
-                                        href="tel:+6289684781433">+62 896 8478 1433</a></div>
+                                        href="{{ route('konsultasi', ' ') }}">+62 896 8478 1433</a></div>
                             </div>
                         </div>
                     </div>
@@ -44,10 +44,9 @@
                             <div class="vs-widget-about">
                                 <p class="footer-text">Layanan pembuatan website profesional dan pengelolaan media sosial.</p>
                                 <div class="footer-social">
-                                    <a href="https://www.instagram.com/craftwave.id"><i class="fab fa-whatsapp"></i></a>
+                                    <a href="{{ route('konsultasi', ' ') }}"><i class="fab fa-whatsapp"></i></a>
                                     <a href="https://www.instagram.com/craftwave.id"><i class="fab fa-instagram"></i></a>
-                                    <a href="https://www.instagram.com/craftwave.id"><i class="fab fa-twitter"></i></a>
-                                    <a href="https://www.instagram.com/craftwave.id"><i class="fab fa-youtube"></i></a>
+
                                 </div>
                             </div>
                         </div>
