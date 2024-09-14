@@ -16,7 +16,7 @@
                 <h1 class="breadcumb-title">Portofolio Kami</h1>
                 <div class="breadcumb-menu-wrap">
                     <ul class="breadcumb-menu">
-                        <li><a href="index.html">Beranda</a></li>
+                        <li><a href="{{ route('beranda') }}">Beranda</a></li>
                         <li>Portofolio Kami</li>
                     </ul>
                 </div>

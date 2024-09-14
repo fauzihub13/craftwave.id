@@ -16,7 +16,7 @@
                 <h1 class="breadcumb-title">Tentang Kami</h1>
                 <div class="breadcumb-menu-wrap">
                     <ul class="breadcumb-menu">
-                        <li><a href="index.html">Beranda</a></li>
+                        <li><a href="{{ route('beranda') }}">Beranda</a></li>
                         <li>Tentang Kami</li>
                     </ul>
                 </div>
@@ -40,11 +40,11 @@
                         <div class="team-img">
                             <div class="team-shape1"></div>
                             <div class="team-shape2"></div>
-                            <a href="team-details.html"><img src="{{ asset('assets/img/craftwave/tim/Fauzi.png') }}" alt="image"></a>
+                            <a href="#"><img src="{{ asset('assets/img/craftwave/tim/Fauzi.png') }}" alt="image"></a>
 
                         </div>
                         <div class="team-content">
-                            <h3 class="team-title h5"><a class="text-inherit" href="team-details.html">Fauzi Adi Saputra</a></h3>
+                            <h3 class="team-title h5"><a class="text-inherit" href="#">Fauzi Adi Saputra</a></h3>
                             <p class="team-degi">Chief Technology Officer</p>
                         </div>
                     </div>
@@ -54,11 +54,11 @@
                         <div class="team-img">
                             <div class="team-shape1"></div>
                             <div class="team-shape2"></div>
-                            <a href="team-details.html"><img src="{{ asset('assets/img/craftwave/tim/Marsya.png') }}" alt="image"></a>
+                            <a href="#"><img src="{{ asset('assets/img/craftwave/tim/Marsya.png') }}" alt="image"></a>
 
                         </div>
                         <div class="team-content">
-                            <h3 class="team-title h5"><a class="text-inherit" href="team-details.html">Marsya Halya Alfrida</a>
+                            <h3 class="team-title h5"><a class="text-inherit" href="#">Marsya Halya Alfrida</a>
                             </h3>
                             <p class="team-degi">Chief Marketing Officer</p>
                         </div>
@@ -69,11 +69,11 @@
                         <div class="team-img">
                             <div class="team-shape1"></div>
                             <div class="team-shape2"></div>
-                            <a href="team-details.html"><img src="{{ asset('assets/img/craftwave/tim/Mia.png') }}" alt="image"></a>
+                            <a href="#"><img src="{{ asset('assets/img/craftwave/tim/Mia.png') }}" alt="image"></a>
 
                         </div>
                         <div class="team-content">
-                            <h3 class="team-title h5"><a class="text-inherit" href="team-details.html">Mia Putri Yeza</a>
+                            <h3 class="team-title h5"><a class="text-inherit" href="#">Mia Putri Yeza</a>
                             </h3>
                             <p class="team-degi">Chief Financial Officer</p>
                         </div>
@@ -108,11 +108,11 @@
                             <div class="author-img"><img src="{{ asset('assets/img/craftwave/testimoni/Andi.jpg') }}" alt="Testimonial">
                             </div>
                             <div class="media-body">
-                                <p class="testi-text">“Layanan yang luar biasa! Website kami responsif, dan konten media sosial berhasil meningkatkan interaksi dengan pelanggan.”</p>
+                                <p class="testi-text">“Craftwave.id membuat sistem absensi dan laporan kegiatan yang sangat membantu pengelolaan karyawan kami. Semua terintegrasi dengan baik dan mudah digunakan. Hasilnya benar-benar di luar ekspektasi kami!”</p>
                             </div>
                         </div>
-                        <h3 class="testi-name">Andi</h3>
-                        <div class="testi-degi">Pemilik Villa Lestari</div>
+                        <h3 class="testi-name">Panji Yeza</h3>
+                        <div class="testi-degi">CEO Sambal Bakar Sutomo</div>
                     </div>
                 </div>
                 <div class="col-xl-6">
@@ -121,11 +121,11 @@
                             <div class="author-img"><img src="{{ asset('assets/img/craftwave/testimoni/Sarah.jpg') }}" alt="Testimonial">
                             </div>
                             <div class="media-body">
-                                <p class="testi-text">“Website dan konten media sosial kami terlihat jauh lebih profesional. Penjualan naik drastis, sangat puas dengan hasilnya!”</p>
+                                <p class="testi-text">“Website e-commerce B2B yang dibuat oleh craftwave.id sangat profesional dan sesuai dengan kebutuhan pasar kami. Fitur-fiturnya lengkap dan proses transaksi berjalan lancar. Benar-benar solusi terbaik untuk bisnis kami.”</p>
                             </div>
                         </div>
                         <h3 class="testi-name">Sarah</h3>
-                        <div class="testi-degi">Pemilik Toko Fashion</div>
+                        <div class="testi-degi">CEO Agrihub</div>
                     </div>
                 </div>
                 <div class="col-xl-6">
@@ -134,11 +134,11 @@
                             <div class="author-img"><img src="{{ asset('assets/img/craftwave/testimoni/Dita.jpg') }}" alt="Testimonial">
                             </div>
                             <div class="media-body">
-                                <p class="testi-text">“Sejak pakai jasa Craftwave.id, website dan media sosial kami menarik lebih banyak pelanggan. Sangat direkomendasikan!”</p>
+                                <p class="testi-text">“Website pemetaan lokasi kebun yang dibuat oleh craftwave.id sangat membantu kami dalam memperlihatkan kebun-kebun kota. Pengunjung jadi mudah menemukan lokasi kami dan semua informasi tersedia dengan jelas.”</p>
                             </div>
                         </div>
-                        <h3 class="testi-name">Dita</h3>
-                        <div class="testi-degi">CEO Kafe Artisan</div>
+                        <h3 class="testi-name">Syifa</h3>
+                        <div class="testi-degi">Pemilik GorBoen</div>
                     </div>
                 </div>
                 <div class="col-xl-6">
@@ -147,11 +147,24 @@
                             <div class="author-img"><img src="{{ asset('assets/img/craftwave/testimoni/Budi.jpg') }}" alt="Testimonial">
                             </div>
                             <div class="media-body">
-                                <p class="testi-text">“Tim Craftwave.id sangat profesional. Website kami sekarang jauh lebih menarik dan mudah diakses, konten sosial media juga sukses menarik pelanggan.”</p>
+                                <p class="testi-text">“Website pencatatan dan pelatihan pertanian dari Craftwave.id hasilnya sangat memuaskan. Sistemnya memudahkan kami dalam mencatat hasil panen serta mengadakan pelatihan online bagi anggota kelompok tani.”</p>
                             </div>
                         </div>
-                        <h3 class="testi-name">Budi</h3>
-                        <div class="testi-degi">Pengusaha Restoran</div>
+                        <h3 class="testi-name">Victor Lee</h3>
+                        <div class="testi-degi">Founder One Home Farm</div>
+                    </div>
+                </div>
+                <div class="col-xl-6">
+                    <div class="testi-style2">
+                        <div class="testi-body">
+                            <div class="author-img"><img src="{{ asset('assets/img/craftwave/testimoni/Farhan.jpeg') }}" alt="Testimonial">
+                            </div>
+                            <div class="media-body">
+                                <p class="testi-text">“Website daftar wisata kuliner dan tempat wisata yang kami pesan dari craftwave.id sangat informatif dan mudah diakses oleh wisatawan. Desainnya sangat menarik dan fitur pencariannya sangat memudahkan.”</p>
+                            </div>
+                        </div>
+                        <h3 class="testi-name">Farhan</h3>
+                        <div class="testi-degi">Pemilik Studio Photo</div>
                     </div>
                 </div>
             </div>

@@ -95,7 +95,7 @@
         <div class="copyright-wrap">
             <div class="container">
                 <p class="copyright-text">Copyright <i class="fal fa-copyright"></i> 2024 <a class="text-white"
-                        href="index.html">Craftwave.id</a>. All rights reserved by <a class="text-white"
+                        href="#">Craftwave.id</a>. All rights reserved by <a class="text-white"
                         href="#">Craftwave.id</a>.</p>
             </div>
         </div>
