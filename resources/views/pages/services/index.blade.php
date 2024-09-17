@@ -271,7 +271,7 @@
                         <div class="price-style1 primary-color">
                             <div class="price-shape"></div>
                             <h3 class="price-package h5">Premium Mingguan</h3>
-                            <div class="price-amount h1 text-blue-gradient">399k <span class="price-duration"><s></s></span></div>
+                            <div class="price-amount h1 text-blue-gradient">299k <span class="price-duration"><s></s></span></div>
                             <div class="price-features">
                                 <ul>
                                     <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>6 Postingan Instagram per minggu (gambar, carousel, atau video pendek)</li>
