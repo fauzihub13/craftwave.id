@@ -212,7 +212,7 @@
                     </div>
                 </div>
 
-                {{-- Toko Online --}}
+                {{-- Custom Website --}}
                 <h6 class="sec-title text-blue-gradient text-center mt-5">Custom Website</h6>
                 <div class="row justify-content-center">
                     <div class="col-xl-4">
@@ -237,7 +237,7 @@
 
                                 </ul>
                             </div>
-                            <a href="{{ route('konsultasi', 'Pembuatan Toko Online Reguler') }}" class="btn-primary-gradient w-100">Pesan Sekarang  <i class="far fa-arrow-right"></i></a>
+                            <a href="{{ route('konsultasi', 'Pembuatan Custom Website') }}" class="btn-primary-gradient w-100">Pesan Sekarang  <i class="far fa-arrow-right"></i></a>
                         </div>
                     </div>
                 </div>
