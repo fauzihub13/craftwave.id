@@ -54,71 +54,196 @@
             </div>
 
             {{-- Tab Website --}}
-            <div class="row " data-slide-show="3" data-md-slide-show="2" id="tab-services-content-1">
-                <div class="col-xl-4">
-                    <div class="price-style1 primary-color">
-                        <div class="price-shape"></div>
-                        <h3 class="price-package h5">Landing Page</h3>
-                        <div class="price-amount h1 text-blue-gradient">499k <span class="price-duration"><s></s></span></div>
-                        <div class="price-features">
-                            <ul>
-                                <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>1 halaman website statis</li>
-                                <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>Free domain</li>
-                                <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>Free hosting</li>
-                                <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>Free SSL</li>
-                                <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>Free jasa instalasi</li>
-                                <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>Integrasi sosial media</li>
-                            </ul>
-                        </div>
-                        <a href="{{ route('konsultasi', 'Pembuatan Landing Page') }}" class="btn-primary-gradient w-100">Pesan Sekarang  <i class="far fa-arrow-right"></i></a>
+            <div class="" id="tab-services-content-1">
 
+                {{-- Landing Page --}}
+                <h6 class="sec-title text-blue-gradient text-center ">Landing Page</h6>
+                <div class="row justify-content-center">
+                    <div class="col-xl-4">
+                        <div class="price-style1 primary-color">
+                            <div class="price-shape"></div>
+                            <h3 class="price-package h5">Landing Page Reguler</h3>
+                            <div class="price-amount h1 text-blue-gradient">599k <span class="price-duration"><s></s></span></div>
+                            <div class="price-features">
+                                <ul>
+                                    <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>Free Template Website</li>
+                                    <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>1 Halaman Website</li>
+                                    <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>Request Warna Desain</li>
+                                    <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>Free Domain 1 tahun (.my.id/ .web.id/ .com)</li>
+                                    <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>Free Hosting 1 tahun</li>
+                                    <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>Free SSL</li>
+                                    <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>Unmetered Bandwidth</li>
+                                    <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>Free Tanya Jawab & Pemanduan</li>
+                                    <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>Garansi Masa Aktif Website</li>
+                                    <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>Perpanjangan: Rp. 299.000/ tahun</li>
+                                    <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>1x Revisi</li>
 
-                    </div>
-                </div>
-                <div class="col-xl-4">
-                    <div class="price-style1">
-                        <div class="price-shape" ></div>
-                        <h3 class="price-package h5">Premium Website</h3>
-                        <div class="price-amount h1 text-blue-gradient">999k <span class="price-duration"><s></s></span></div>
-                        <div class="price-features">
-                            <ul>
-                                <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>5 halaman website statis</li>
-                                <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>Free domain</li>
-                                <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>Free hosting</li>
-                                <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>Free SSL</li>
-                                <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>Premium design website</li>
-                                <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>Free jasa instalasi</li>
-                                <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>Free Whatsapp form</li>
-                                <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>Integrasi sosial media</li>
-                                <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>Free Banner</li>
-                            </ul>
+                                </ul>
+                            </div>
+                            <a href="{{ route('konsultasi', 'Pembuatan Landing Page Reguler') }}" class="btn-primary-gradient w-100">Pesan Sekarang  <i class="far fa-arrow-right"></i></a>
+
                         </div>
-                        <a href="{{ route('konsultasi', 'Pembuatan Premium Website') }}" class="btn-primary-gradient w-100">Pesan Sekarang  <i class="far fa-arrow-right"></i></a>
                     </div>
-                </div>
-                <div class="col-xl-4">
-                    <div class="price-style1">
-                        <div class="price-shape"></div>
-                        <h3 class="price-package h5">Custom Website</h3>
-                        <div class="price-amount h1 text-blue-gradient">1500k <span class="price-duration">mulai dari</span></div>
-                        <div class="price-features">
-                            <ul>
-                                <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>Halaman website dinamis</li>
-                                <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>Custom fitur website</li>
-                                <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>Custom design website</li>
-                                <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>Free domain</li>
-                                <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>Free hosting</li>
-                                <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>Free SSL</li>
-                                <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>Free jasa instalasi</li>
-                                <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>Free Whatsapp form</li>
-                                <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>Integrasi sosial media</li>
-                                <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>Free Banner</li>
-                            </ul>
+                    <div class="col-xl-4">
+                        <div class="price-style1">
+                            <div class="price-shape" ></div>
+                            <h3 class="price-package h5">Landing Page Premium</h3>
+                            <div class="price-amount h1 text-blue-gradient">699k <span class="price-duration"><s></s></span></div>
+                            <div class="price-features">
+                                <ul>
+                                    <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>Design Professional dan Custom (Bisa Mengajukan Desain Sendiri)</li>
+                                    <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>Request Warna Desain</li>
+                                    <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>Free Domain 1 tahun (.my.id/ .web.id/ .com)</li>
+                                    <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>Free Hosting 1 tahun</li>
+                                    <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>Free SSL</li>
+                                    <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>Unmetered Bandwidth</li>
+                                    <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>Free Tanya Jawab & Pemanduan</li>
+                                    <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>Garansi Masa Aktif Website</li>
+                                    <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>Perpanjangan: Rp. 349.000/ tahun</li>
+                                    <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>2x Revisi</li>
+
+                                </ul>
+                            </div>
+                            <a href="{{ route('konsultasi', 'Pembuatan Landing Page Premium') }}" class="btn-primary-gradient w-100">Pesan Sekarang  <i class="far fa-arrow-right"></i></a>
                         </div>
-                        <a href="{{ route('konsultasi', 'Pembuatan Custom Website') }}" class="btn-primary-gradient w-100">Pesan Sekarang  <i class="far fa-arrow-right"></i></a>
                     </div>
                 </div>
+
+                {{-- Company Profile --}}
+                <h6 class="sec-title text-blue-gradient text-center mt-5">Company Profile</h6>
+                <div class="row justify-content-center">
+                    <div class="col-xl-4">
+                        <div class="price-style1">
+                            <div class="price-shape"></div>
+                            <h3 class="price-package h5">Company Profile Reguler</h3>
+                            <div class="price-amount h1 text-blue-gradient">899k <span class="price-duration"></span></div>
+                            <div class="price-features">
+                                <ul>
+                                    <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>Free Template Website</li>
+                                    <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>4 Halaman Website</li>
+                                    <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>Request Warna Desain</li>
+                                    <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>Free Domain 1 tahun (.my.id/ .web.id/ .com)</li>
+                                    <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>Free Hosting 1 tahun</li>
+                                    <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>Free SSL</li>
+                                    <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>Unmetered Bandwidth</li>
+                                    <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>Free Tanya Jawab & Pemanduan</li>
+                                    <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>Garansi Masa Aktif Website</li>
+                                    <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>Perpanjangan: Rp. 299.000/ tahun</li>
+                                    <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>1x Revisi</li>
+
+                                </ul>
+                            </div>
+                            <a href="{{ route('konsultasi', 'Pembuatan Company Profile Reguler') }}" class="btn-primary-gradient w-100">Pesan Sekarang  <i class="far fa-arrow-right"></i></a>
+                        </div>
+                    </div>
+                    <div class="col-xl-4">
+                        <div class="price-style1">
+                            <div class="price-shape"></div>
+                            <h3 class="price-package h5">Company Profile Premium</h3>
+                            <div class="price-amount h1 text-blue-gradient">999k <span class="price-duration"></span></div>
+                            <div class="price-features">
+                                <ul>
+                                    <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>Design Professional dan Custom (Bisa Mengajukan Desain Sendiri)</li>
+                                    <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>Request Warna Desain</li>
+                                    <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>Free Domain 1 tahun (.my.id/ .web.id/ .com)</li>
+                                    <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>Free Hosting 1 tahun</li>
+                                    <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>Free SSL</li>
+                                    <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>Unmetered Bandwidth</li>
+                                    <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>Free Tanya Jawab & Pemanduan</li>
+                                    <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>Garansi Masa Aktif Website</li>
+                                    <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>Perpanjangan: Rp. 349.000/ tahun</li>
+                                    <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>2x Revisi</li>
+
+                                </ul>
+                            </div>
+                            <a href="{{ route('konsultasi', 'Pembuatan Company Profile Premium') }}" class="btn-primary-gradient w-100">Pesan Sekarang  <i class="far fa-arrow-right"></i></a>
+                        </div>
+                    </div>
+                </div>
+
+                {{-- Toko Online --}}
+                <h6 class="sec-title text-blue-gradient text-center mt-5">Toko Online</h6>
+                <div class="row justify-content-center">
+                    <div class="col-xl-4">
+                        <div class="price-style1">
+                            <div class="price-shape"></div>
+                            <h3 class="price-package h5">Toko Online Reguler</h3>
+                            <div class="price-amount h1 text-blue-gradient">1.299k <span class="price-duration"></span></div>
+                            <div class="price-features">
+                                <ul>
+                                    <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>Free Template Website</li>
+                                    <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>Request Warna Desain</li>
+                                    <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>Checkout Pesanan ke WhatsApp</li>
+                                    <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>Free Domain 1 tahun (.my.id/ .web.id/ .com)</li>
+                                    <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>Free Hosting 1 tahun</li>
+                                    <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>Free SSL</li>
+                                    <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>Unmetered Bandwidth</li>
+                                    <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>Free Tanya Jawab & Pemanduan</li>
+                                    <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>Garansi Masa Aktif Website</li>
+                                    <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>Perpanjangan: Rp. 299.000/ tahun</li>
+                                    <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>1x Revisi</li>
+                                </ul>
+                            </div>
+                            <a href="{{ route('konsultasi', 'Pembuatan Toko Online Reguler') }}" class="btn-primary-gradient w-100">Pesan Sekarang  <i class="far fa-arrow-right"></i></a>
+                        </div>
+                    </div>
+                    <div class="col-xl-4">
+                        <div class="price-style1">
+                            <div class="price-shape"></div>
+                            <h3 class="price-package h5">Toko Online Premium</h3>
+                            <div class="price-amount h1 text-blue-gradient">1.499k <span class="price-duration"></span></div>
+                            <div class="price-features">
+                                <ul>
+                                    <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>Design Professional dan Custom (Bisa Mengajukan Desain Sendiri)</li>
+                                    <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>Request Warna Desain</li>
+                                    <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>Checkout Pesanan di Website</li>
+                                    <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>Free Domain 1 tahun (.my.id/ .web.id/ .com)</li>
+                                    <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>Free Hosting 1 tahun</li>
+                                    <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>Free SSL</li>
+                                    <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>Unmetered Bandwidth</li>
+                                    <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>Free Tanya Jawab & Pemanduan</li>
+                                    <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>Garansi Masa Aktif Website</li>
+                                    <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>Perpanjangan: Rp. 349.000/ tahun</li>
+                                    <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>2x Revisi</li>
+                                </ul>
+                            </div>
+                            <a href="{{ route('konsultasi', 'Pembuatan Toko Online Premium') }}" class="btn-primary-gradient w-100">Pesan Sekarang  <i class="far fa-arrow-right"></i></a>
+                        </div>
+                    </div>
+                </div>
+
+                {{-- Toko Online --}}
+                <h6 class="sec-title text-blue-gradient text-center mt-5">Custom Website</h6>
+                <div class="row justify-content-center">
+                    <div class="col-xl-4">
+                        <div class="price-style1">
+                            <div class="price-shape"></div>
+                            <h3 class="price-package h5">Custom Website</h3>
+                            <div class="price-amount h1 text-blue-gradient">1.500k <span class="price-duration">mulai dari</span></div>
+                            <div class="price-features">
+                                <ul>
+                                    <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>Desain Custom sesuai Kebutuhan</li>
+                                    <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>Jumlah Halaman sesuai Kebutuhan</li>
+                                    <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>Fitur sesuai Kebutuhan</li>
+                                    <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>Free Color Kit</li>
+                                    <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>Free Domain 1 Tahun (.my.id/ .web.id/ .com)</li>
+                                    <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>Free Hosting 1 Tahun</li>
+                                    <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>Free SSL</li>
+                                    <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>Unmetered Bandwidth</li>
+                                    <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>Free Tanya Jawab & Pemanduan</li>
+                                    <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>Garansi 1 Tahun Masa Aktif Website</li>
+                                    <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>Perpanjangan: Rp. 499.000/tahun</li>
+                                    <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>3-5x Revisi</li>
+
+                                </ul>
+                            </div>
+                            <a href="{{ route('konsultasi', 'Pembuatan Toko Online Reguler') }}" class="btn-primary-gradient w-100">Pesan Sekarang  <i class="far fa-arrow-right"></i></a>
+                        </div>
+                    </div>
+                </div>
+
             </div>
+
 
             {{-- Tab Sosial Media --}}
             <div class="row " data-slide-show="3" data-md-slide-show="2"  id="tab-services-content-2">
