@@ -246,74 +246,89 @@
 
 
             {{-- Tab Sosial Media --}}
-            <div class="row " data-slide-show="3" data-md-slide-show="2"  id="tab-services-content-2">
+            <div class="" id="tab-services-content-2">
+                {{-- Paket Mingguan --}}
+                <h6 class="sec-title text-blue-gradient text-center ">Paket Mingguan</h6>
+                <div class="row justify-content-center">
+                    <div class="col-xl-4">
+                        <div class="price-style1 primary-color">
+                            <div class="price-shape"></div>
+                            <h3 class="price-package h5">Basic Mingguan</h3>
+                            <div class="price-amount h1 text-blue-gradient">249k <span class="price-duration"><s></s></span></div>
+                            <div class="price-features">
+                                <ul>
+                                    <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>3 Postingan Instagram per minggu (gambar atau carousel)</li>
+                                    <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>Gratis 2 desain story Instagram dengan upload harian</li>
+                                    <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>Pengelolaan dan monitoring engagement (like, komentar)</li>
+                                    <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>Laporan mingguan performa media sosial</li>
+                                </ul>
+                            </div>
+                            <a href="{{ route('konsultasi', 'Kelola Sosial Media Basic Mingguan') }}" class="btn-primary-gradient w-100">Pesan Sekarang  <i class="far fa-arrow-right"></i></a>
 
-                <div class="col-xl-4">
-                    <div class="price-style1">
-                        <div class="price-shape"></div>
-                        <h3 class="price-package h5 ">Basic Mingguan</h3>
-                        <div class="price-amount h1 text-blue-gradient">159k <span class="price-duration"><s></s></span></div>
-                        <div class="price-features">
-                            <ul>
-                                <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>3 Postingan Instagram per minggu (gambar atau carousel).</li>
-                                <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>Gratis 2 desain story Instagram dengan upload harian.</li>
-                                <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>Pengelolaan dan monitoring engagement.</li>
-                                <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>Laporan mingguan performa media sosial.</li>
-                            </ul>
                         </div>
-                        <a href="{{ route('konsultasi', 'Kelola Sosial Media Basic Mingguan') }}" class="btn-primary-gradient w-100">Pesan Sekarang  <i class="far fa-arrow-right"></i></a>
+                    </div>
+                    <div class="col-xl-4">
+                        <div class="price-style1 primary-color">
+                            <div class="price-shape"></div>
+                            <h3 class="price-package h5">Premium Mingguan</h3>
+                            <div class="price-amount h1 text-blue-gradient">399k <span class="price-duration"><s></s></span></div>
+                            <div class="price-features">
+                                <ul>
+                                    <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>6 Postingan Instagram per minggu (gambar, carousel, atau video pendek)</li>
+                                    <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>Gratis 3 desain story Instagram dengan upload harian</li>
+                                    <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>Pengelolaan dan monitoring engagement (like, komentar, DM)</li>
+                                    <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>Laporan mingguan performa media sosial</li>
+
+                                </ul>
+                            </div>
+                            <a href="{{ route('konsultasi', 'Kelola Sosial Media Premium Mingguan') }}" class="btn-primary-gradient w-100">Pesan Sekarang  <i class="far fa-arrow-right"></i></a>
+
+                        </div>
                     </div>
                 </div>
-                <div class="col-xl-4">
-                    <div class="price-style1">
-                        <div class="price-shape"></div>
-                        <h3 class="price-package h5">Premium Mingguan</h3>
-                        <div class="price-amount h1 text-blue-gradient">219k <span class="price-duration"><s></s></span></div>
-                        <div class="price-features">
-                            <ul>
-                                <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>6 Postingan Instagram per minggu (gambar, carousel, atau video pendek).</li>
-                                <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>Gratis 3 desain story Instagram dengan upload harian.</li>
-                                <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>Pengelolaan dan monitoring engagement (like, komentar, DM).</li>
-                                <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>Laporan mingguan performa media sosial.</li>
-                            </ul>
+
+                {{-- Paket Bulanan --}}
+                <h6 class="sec-title text-blue-gradient text-center mt-5">Paket Bulanan</h6>
+                <div class="row justify-content-center">
+                    <div class="col-xl-4">
+                        <div class="price-style1 primary-color">
+                            <div class="price-shape"></div>
+                            <h3 class="price-package h5">Basic Bulanan</h3>
+                            <div class="price-amount h1 text-blue-gradient">349k <span class="price-duration"><s></s></span></div>
+                            <div class="price-features">
+                                <ul>
+                                    <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>9 Postingan Instagram per bulan (gambar atau carousel)</li>
+                                    <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>Gratis 4 desain story Instagram dengan upload harian</li>
+                                    <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>Pengelolaan dan monitoring engagement (like, komentar)</li>
+                                    <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>Laporan bulanan performa media sosial</li>
+                                </ul>
+                            </div>
+                            <a href="{{ route('konsultasi', 'Kelola Sosial Media Basic Bulanan') }}" class="btn-primary-gradient w-100">Pesan Sekarang  <i class="far fa-arrow-right"></i></a>
+
                         </div>
-                        <a href="{{ route('konsultasi', 'Kelola Sosial Media Premium Mingguan') }}" class="btn-primary-gradient w-100">Pesan Sekarang  <i class="far fa-arrow-right"></i></a>
                     </div>
-                </div>
-                <div class="col-xl-4">
-                    <div class="price-style1">
-                        <div class="price-shape"></div>
-                        <h3 class="price-package h5">Basic Bulanan</h3>
-                        <div class="price-amount h1 text-blue-gradient">359k <span class="price-duration"><s></s></span></div>
-                        <div class="price-features">
-                            <ul>
-                                <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>9 Postingan Instagram per bulan (gambar, carousel, atau video pendek).</li>
-                                <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>Gratis 4 desain story Instagram dengan upload harian.</li>
-                                <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>Pengelolaan dan monitoring engagement (like, komentar).</li>
-                                <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>Laporan bulanan  performa media sosial.</li>
-                            </ul>
+                    <div class="col-xl-4">
+                        <div class="price-style1 primary-color">
+                            <div class="price-shape"></div>
+                            <h3 class="price-package h5">Premium Bulanan</h3>
+                            <div class="price-amount h1 text-blue-gradient">399k <span class="price-duration"><s></s></span></div>
+                            <div class="price-features">
+                                <ul>
+                                    <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>12 Postingan Instagram per bulan (gambar, carousel, atau video pendek)</li>
+                                    <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>Gratis 8 desain story Instagram dengan upload harian</li>
+                                    <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>Pengelolaan dan monitoring engagement (like, komentar, DM)</li>
+                                    <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>Desain custom banner atau visual untuk promosi khusus</li>
+                                    <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>Laporan bulanan performa media sosial insight</li>
+
+                                </ul>
+                            </div>
+                            <a href="{{ route('konsultasi', 'Kelola Sosial Media Premium Bulanan') }}" class="btn-primary-gradient w-100">Pesan Sekarang  <i class="far fa-arrow-right"></i></a>
+
                         </div>
-                        <a href="{{ route('konsultasi', 'Kelola Sosial Media Basic Bulanan') }}" class="btn-primary-gradient w-100">Pesan Sekarang  <i class="far fa-arrow-right"></i></a>
-                    </div>
-                </div>
-                <div class="col-xl-4">
-                    <div class="price-style1">
-                        <div class="price-shape"></div>
-                        <h3 class="price-package h5">Premium Bulanan</h3>
-                        <div class="price-amount h1 text-blue-gradient">459k <span class="price-duration"><s></s></span></div>
-                        <div class="price-features">
-                            <ul>
-                                <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>12 Postingan Instagram per bulan (gambar, carousel, atau video pendek).</li>
-                                <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>Gratis 8 desain story Instagram dengan upload harian.</li>
-                                <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>Pengelolaan dan monitoring engagement (like, komentar).</li>
-                                <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>Desain custom banner atau visual untuk promosi khusus.</li>
-                                <li class="d-flex align-items-center"><i class="far fa-check-circle"></i>Laporan bulanan  performa media sosial.</li>
-                            </ul>
-                        </div>
-                        <a href="{{ route('konsultasi', 'Kelola Sosial Media Premium Bulanan') }}" class="btn-primary-gradient w-100">Pesan Sekarang  <i class="far fa-arrow-right"></i></a>
                     </div>
                 </div>
             </div>
+
 
         </div>
     </section>
