@@ -6,8 +6,8 @@
     <meta content="width=device-width, initial-scale=1, maximum-scale=1, shrink-to-fit=no"
         name="viewport">
     <title>@yield('title') Craftwave.id</title>
-    <link rel="icon" type="image/x-icon" href="{{ asset('assets/img/craftwave/logo/logo.png') }}">
-    <link rel="icon" type="image/png" sizes="32x32" href="{{ asset('assets/img/craftwave/logo/logo-32x32.png') }}">
+    <link rel="icon" type="image/x-icon" href="assets/img/craftwave/logo/logo.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/img/craftwave/logo/logo-48x48.png">
     {{-- <link rel="icon" type="image/png" sizes="16x16" href="{{ asset('assets/img/craftwave/logo/logo.png') }}"> --}}
 
     {{-- Meta Tags --}}
