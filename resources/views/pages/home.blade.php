@@ -14,7 +14,7 @@
         <div class="vs-hero-carousel" data-height="850" data-container="1900" data-slidertype="responsive">
             <!-- Slide 1-->
             <div class="ls-slide" data-ls="duration:12000; transition2d:5; kenburnszoom:in; kenburnsscale:1.1;">
-                <img width="1920" height="850" src="{{ asset('assets/img/craftwave/hero/1.png') }}" class="ls-bg" alt="hero-bg" />
+                <img width="1920" height="850" src="{{ asset('assets/img/craftwave/hero/1.webp') }}" class="ls-bg" alt="hero-bg" />
                 <div style="font-size:36px; color:#000; text-align:left; font-style:normal; text-decoration:none; text-transform:none; font-weight:400; letter-spacing:0px; border-style:solid; border-color:#000; background-position:0% 0%; background-repeat:no-repeat; width:300px; height:1558px; background-color:rgba(14, 84, 245, 0.5); top:-473px; left:51px;"
                     class="ls-l ls-text-layer d-hd-none"
                     data-ls="offsetxin:-800; offsetyin:-800; durationin:1700; delayin:1200; easingin:easeOutQuint; rotatein:43.46; offsetxout:1200; offsetyout:1200; durationout:8000; startatout:slidechangeonly + 3000; easingout:easeOutQuint; scaleyout:5; rotation:43.46;">
@@ -102,7 +102,7 @@
             </div>
             <!-- Slide 2-->
             <div class="ls-slide" data-ls="duration:12000; transition2d:5; kenburnszoom:out; kenburnsscale:1.1;">
-                <img width="1920" height="850" src="{{ asset('assets/img/craftwave/hero/2.png') }}" class="ls-bg" alt="hero-bg" />
+                <img width="1920" height="850" src="{{ asset('assets/img/craftwave/hero/2.webp') }}" class="ls-bg" alt="hero-bg" />
                 <div style="font-size:36px; color:#000; text-align:left; font-style:normal; text-decoration:none; text-transform:none; font-weight:400; letter-spacing:0px; border-style:solid; border-color:#000; background-position:0% 0%; background-repeat:no-repeat; width:300px; height:1558px; background-color:rgba(14, 84, 245, 0.5); top:-473px; left:51px;"
                     class="ls-l ls-text-layer d-hd-none"
                     data-ls="offsetxin:-800; offsetyin:-800; durationin:1700; delayin:1200; easingin:easeOutQuint; rotatein:43.46; offsetxout:1200; offsetyout:1200; durationout:8000; startatout:slidechangeonly + 3000; easingout:easeOutQuint; scaleyout:5; rotation:43.46;">
@@ -178,7 +178,7 @@
             </div>
             <!-- Slide 3-->
             <div class="ls-slide" data-ls="duration:12000; transition2d:5; kenburnszoom:in; kenburnsscale:1.1;">
-                <img width="1920" height="850" src="{{ asset('assets/img/craftwave/hero/3.png') }}" class="ls-bg" alt="hero-bg" />
+                <img width="1920" height="850" src="{{ asset('assets/img/craftwave/hero/3.webp') }}" class="ls-bg" alt="hero-bg" />
                 <div style="font-size:36px; color:#000; text-align:left; font-style:normal; text-decoration:none; text-transform:none; font-weight:400; letter-spacing:0px; border-style:solid; border-color:#000; background-position:0% 0%; background-repeat:no-repeat; width:300px; height:1558px; background-color:rgba(14, 84, 245, 0.5); top:-473px; left:51px;"
                     class="ls-l ls-text-layer d-hd-none"
                     data-ls="offsetxin:-800; offsetyin:-800; durationin:1700; delayin:1200; easingin:easeOutQuint; rotatein:43.46; offsetxout:1200; offsetyout:1200; durationout:8000; startatout:slidechangeonly + 3000; easingout:easeOutQuint; scaleyout:5; rotation:43.46;">
@@ -266,7 +266,7 @@
                     <div class="col-lg-6 col-xl-5 mb-50 mb-lg-0 wow fadeInUp" data-wow-delay="0.2s">
                         <div class="img-box1">
                             <div class="img-1">
-                                <img src="{{ asset('assets/img/craftwave/other/Introduction.png') }}" alt="About image">
+                                <img src="{{ asset('assets/img/craftwave/other/Introduction.webp') }}" alt="About image">
                             </div>
 
                         </div>
@@ -326,7 +326,7 @@
     <!-- Counter Area-->
     <div class="position-relative ">
         <div class="counter-shape1"></div>
-        <div class="bg-black z-index-common space" data-bg-src="{{ asset('assets/img/craftwave/other/Counter.png') }}">
+        <div class="bg-black z-index-common space" data-bg-src="{{ asset('assets/img/craftwave/other/Counter.webp') }}">
             <div class="container wow fadeInUp" data-wow-delay="0.2s">
                 <div class="row justify-content-between gy-4">
                     <div class="col-6 col-lg-auto">

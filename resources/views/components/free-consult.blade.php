@@ -1,4 +1,4 @@
-<section class="z-index-common space" data-bg-src="{{ asset('assets/img/craftwave/other/Consultation.png') }}">
+<section class="z-index-common space" data-bg-src="{{ asset('assets/img/craftwave/other/Consultation.webp') }}">
         <div class="container">
             <div class="row text-center text-lg-start align-items-center justify-content-between">
                 <div class="col-lg-auto">

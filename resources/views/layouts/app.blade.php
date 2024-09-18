@@ -7,7 +7,7 @@
         name="viewport">
     <title>@yield('title') Craftwave.id</title>
     <link rel="icon" type="image/x-icon" href="assets/img/craftwave/logo/logo.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="/assets/img/craftwave/logo/logo-48x48.png">
+    <link rel="icon" type="image/png" sizes="48x48" href="/assets/img/craftwave/logo/logo-48x48.png">
     {{-- <link rel="icon" type="image/png" sizes="16x16" href="{{ asset('assets/img/craftwave/logo/logo.png') }}"> --}}
 
     {{-- Meta Tags --}}
@@ -23,9 +23,17 @@
     <meta property="og:description" content="Craftwave.id adalah startup yang menyediakan jasa pembuatan website profesional dan manajemen konten sosial media.">
     <meta property="og:url" content="https://craftwave.id">
     <meta property="og:image" content="">
-    <meta property="og:site_name" content="Craftwave.id">
+    <meta property="og:site_name" content="Craftwave">
     <meta property="og:locale" content="id_ID" />
     <meta property="og:determiner" content="Craftwave.id.id" />
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest">
+    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+    <meta name="msapplication-TileColor" content="#da532c">
+    <meta name="theme-color" content="#ffffff">
 
     <!-- General CSS Files -->
 
