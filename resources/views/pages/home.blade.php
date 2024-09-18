@@ -404,7 +404,7 @@
                     </div>
                 </div>
             </div>
-            <a href="{{ route('layanan.index') }}" class="sec-subtitle text-center">Selengkapnya <i
+            <a href="{{ route('portofolio') }}" class="sec-subtitle text-center">Selengkapnya <i
                     class="far fa-long-arrow-right"></i></a>
         </div>
     </section>

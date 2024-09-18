@@ -7,6 +7,8 @@
         name="viewport">
     <title>@yield('title') Craftwave.id</title>
     <link rel="icon" type="image/x-icon" href="{{ asset('assets/img/craftwave/logo/logo.png') }}">
+    <link rel="icon" type="image/png" sizes="32x32" href="{{ asset('assets/img/craftwave/logo/logo-32x32.png') }}">
+    {{-- <link rel="icon" type="image/png" sizes="16x16" href="{{ asset('assets/img/craftwave/logo/logo.png') }}"> --}}
 
     {{-- Meta Tags --}}
     <meta name="title" content="Craftwave.id">
