@@ -1647,15 +1647,7 @@ textarea.is-invalid {
     color: var(--title-color);
 }
 
-.vs-mobile-menu ul li a:before {
-    /* content: "\f105"; */
-    font-family: var(--icon-font);
-    position: relative;
-    left: 0;
-    top: 0;
-    margin-right: 10px;
-    display: inline-block;
-}
+
 
 .vs-mobile-menu ul li.vs-active>a {
     color: var(--theme-color);
