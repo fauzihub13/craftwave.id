@@ -28,7 +28,7 @@
                                 <span class="footer-info_label">Hubungi Kami</span>
                                 <div class="footer-info_link"><a
                                         href="mailto:craftwave.id@gmail.com">craftwave.id@gmail.com</a><br><a
-                                        href="{{ route('konsultasi', ' ') }}">+62 896 8478 1433</a></div>
+                                        href="{{ route('konsultasi', ' ') }}">+62 8998 6012 63</a></div>
                             </div>
                         </div>
                     </div>
@@ -64,7 +64,7 @@
                             </div>
                         </div>
                     </div>
-                    
+
                     <div class="col-md-6 col-lg-4 col-xl-auto">
                         <div class="widget footer-widget">
                             <h3 class="widget_title">Lokasi Kami</h3>

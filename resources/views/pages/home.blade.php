@@ -280,7 +280,7 @@
                             <div class="call-media__icon"><img src="assets/img/icon/tel-1-1.png" alt="icon"></div>
                             <div class="media-body">
                                 <span class="call-media__label">LAYANAN 24 JAM TERSEDIA</span>
-                                <p class="call-media__info">Hubungi Kami: <a href="tel:+6289684781433">+62 896 8478 1433</a></p>
+                                <p class="call-media__info">Hubungi Kami: <a href="{{ route('konsultasi', ' ') }}">+62 8998 6012 63</a></p>
                             </div>
                         </div>
                         <a href="{{ route('tentang-kami') }}" class="btn-primary-gradient">Tentang Kami  <i class="far fa-long-arrow-right"></i></a>
