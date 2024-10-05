@@ -7,6 +7,7 @@ use Config;
 use Exception;
 use GuzzleHttp\Client;
 use Illuminate\Http\Request;
+use Illuminate\Support\Facades\Validator;
 
 class GeneralController extends Controller
 {
@@ -26,6 +27,11 @@ class GeneralController extends Controller
     public function portofolio() {
         return view('pages.portfolio.index');
     }
+
+    public function website() {
+        return view('pages.portfolio.website');
+    }
+
 
     public function hubungiKami() {
         return view('pages.contact-us');

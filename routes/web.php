@@ -9,6 +9,7 @@ Route::controller(GeneralController::class)->group(function() {
     Route::get('/tentang-kami', 'tentangKami')->name('tentang-kami');
     Route::get('/layanan', 'layanan')->name('layanan.index');
     Route::get('/portofolio', 'portofolio')->name('portofolio');
+    Route::get('/website', 'website')->name('website.index');
     Route::get('/hubungi-kami', 'hubungiKami')->name('hubungi-kami');
     Route::post('/kirim-pesan', 'kirimPesan')->name('kirim-pesan');
 
